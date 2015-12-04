@@ -1,0 +1,320 @@
+<guides>
+	<caroline>
+		<copy>
+			<intro>
+<![CDATA[The Roman philosopher Seneca said, "There is no delight 
+in owning anything unshared." Caroline carries that belief 
+with her as she travels the world in search of new rock faces 
+and frozen waterfalls to conquer.
+]]>
+			</intro>
+			<quote>
+<![CDATA["Climbing offers a different perspective on discovering new cultures 
+through traveling ... Guiding enables me to communicate these insights. 
+It gives all the more meaning to what I do."]]>
+			</quote>
+			<bio>
+<![CDATA[Caroline brings a diverse climbing and professional background to the First Ascent team. 
+She has four years as a skiing, alpine, ice- and rock-climbing guide in the U.S., as well as a 
+Masters degree in Law from the University of Fribourg in her native Switzerland. Caroline has 
+written (and translated) dozens of articles about climbing in American, Canadian, French and Swiss 
+publications. She earned her certification in the International Federation of Mountain Guides (IFMGA) 
+in 2010—-one of only seven women in the U.S. to reach that standard.]]>
+			</bio>
+		</copy>
+		<achievement>
+			<size>64</size>
+			<width>220</width>
+			<x>114</x>
+			<y>180</y>
+			<blur>0</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBullet</styleName>
+			<label>WI6+</label>
+			<detail>Grade of completed climbs--vertical, overhanging, no rests</detail>
+			<position>bottom</position>
+		</achievement>
+		<achievement>
+			<size>36</size>
+			<width>200</width>
+			<x>102</x>
+			<y>331</y>
+			<blur>0</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBullet</styleName>
+			<label>1 meter</label>
+			<detail>Height of margarita that Caroline conquered in Vegas</detail>
+			<position>bottom</position>
+		</achievement>
+		<achievement>
+			<size>120</size>
+			<x>559</x>
+			<y>76</y>
+			<blur>0</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletExt</styleName>
+			<label>6</label>
+			<detail>Great north faces in the Alps: Eiger, Matterhorn, Grandes Jorasses, Courtes, Droites, Piz Badile</detail>
+			<position>bottom</position>
+			<offsetX>10</offsetX>
+			<offsetY>-15</offsetY>
+		</achievement>
+		<achievement>
+			<size>48</size>
+			<x>592</x>
+			<y>336</y>
+			<blur>0</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBullet</styleName>
+			<label>5.12b</label>
+			<detail>Rating of Caroline's most difficult rock climb</detail>
+			<offsetX>2</offsetX>
+			<offsetY>8</offsetY>
+		</achievement>
+		<achievement>
+			<size>78</size>
+			<width>130</width>
+			<x>826</x>
+			<y>195</y>
+			<blur>0</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletBlack</styleName>
+			<label>4</label>
+			<detail>First ascents of ice climbs in Norway</detail>
+			<position>bottom</position>
+			<offsetY>-10</offsetY>
+		</achievement>
+		<images>
+			<name>/assets/ocp/fa/guide_built/guides/100517/carolinegeorge_name.swf</name>
+			<bio>/assets/ocp/fa/guide_built/guides/100517/carolinegeorge_bio_bg.jpg</bio>
+			<intro>/assets/ocp/fa/guide_built/guides/100517/carolinegeorge_intro_bg.jpg</intro>
+			<achievements>/assets/ocp/fa/guide_built/guides/100517/carolinegeorge_achievements_bg.jpg</achievements>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_01_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_01_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_01_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_01_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_02_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_02_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_02_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_02_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_03_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_03_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_03_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_03_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_04_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_04_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_04_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_04_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_05_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_05_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_05_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_05_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_06_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_06_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_06_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_06_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_07_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_07_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_07_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_07_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_08_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_08_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_08_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/caroline_photo_08_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+		</images>
+		<links></links>
+	</caroline>
+	<jake>
+		<copy>
+			<intro>
+<![CDATA[At age 12, Jake climbed Mount Rainier and was
+instantly hooked. Today he's a world-class
+guide who speaks fluent Nepali and considers
+the Himalaya his second home.]]>
+			</intro>
+			<quote>
+<![CDATA["... The summit's just a small patch of snow along the way. It's our 
+experiences on the sides of our mountains that last, that linger, 
+that provoke, and that, ultimately, define who we are."]]>
+			</quote>
+			<bio>
+<![CDATA[Jake has worked as a professional guide since 1993. He was part of the team 
+that discovered the body of George Mallory on Everest in 1999, and the first 
+person to visit and document all of the pre-World War II camps on Everest. 
+Jake has climbed extensively throughout the Himalaya and Andes, and also retraced 
+Sir Ernest Shackleton's 1917 crossing of the island of South Georgia.
+
+Jake is the director of the American Mountaineering Museum in Golden, CO, and sits 
+on the International Advisory Council for The Mountain Fund. As a professional photographer, 
+he has covered assignments for Discovery Channel, PBS/NOVA, BBC, Channel 4 and the Outdoor 
+Life Network.]]>
+			</bio>
+		</copy>
+		<achievement>
+			<size>140</size>
+			<width>220</width>
+			<x>40</x>
+			<y>141</y>
+			<blur>0.01</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletThin</styleName>
+			<label>89</label>
+			<detail>Summits of Mt. Rainier</detail>
+			<position>bottom</position>
+			<offsetX>10</offsetX>
+			<offsetY>-20</offsetY>
+		</achievement>
+		<achievement>
+			<size>48</size>
+			<width>200</width>
+			<x>187</x>
+			<y>307</y>
+			<blur>0.01</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletThin</styleName>
+			<label>25,242'</label>
+			<detail>The altitude of Gurla Mandhata, of which Jake made the first official American ascent</detail>
+			<position>bottom</position>
+		</achievement>
+		<achievement>
+			<size>48</size>
+			<x>373</x>
+			<y>163</y>
+			<blur>0.01</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBullet</styleName>
+			<label>20+</label>
+			<detail>Expeditions to Nepal and Tibet</detail>
+			<position>bottom</position>
+			<offsetX>5</offsetX>
+		</achievement>
+		<achievement>
+			<size>56</size>
+			<width>230</width>
+			<x>435</x>
+			<y>44</y>
+			<blur>0.01</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletThin</styleName>
+			<label>94,213</label>
+			<detail>Number of times he clicked the shutter on his cameras in 2009</detail>
+			<offsetX>2</offsetX>
+			<offsetY>-4</offsetY>
+		</achievement>
+		<achievement>
+			<size>78</size>
+			<paddingRight>-40</paddingRight>
+			<x>787</x>
+			<y>212</y>
+			<blur>0.01</blur>
+			<alpha>0.7</alpha>
+			<styleName>AchievementBulletBlack</styleName>
+			<label>3</label>
+			<detail>
+<![CDATA[Summits of Everest
+(29,035')]]>
+			</detail>
+		</achievement>
+		<images>
+			<name>/assets/ocp/fa/guide_built/guides/100517/jakenorton_name.swf</name>
+			<bio>/assets/ocp/fa/guide_built/guides/100517/jakenorton_bio_bg.jpg</bio>
+			<intro>/assets/ocp/fa/guide_built/guides/100517/jakenorton_intro_bg.jpg</intro>
+			<achievements>/assets/ocp/fa/guide_built/guides/100517/jakenorton_achievements_bg.jpg</achievements>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_01_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_01_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_01_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_01_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_02_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_02_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_02_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_02_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_03_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_03_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_03_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_03_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_04_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_04_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_04_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_04_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_05_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_05_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_05_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_photo_05_large.jpg</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>/assets/ocp/fa/guide_built/guides/100517/jakenorton_video_06_thumb.jpg</thumb>
+				<thumbOver>/assets/ocp/fa/guide_built/guides/100517/jakenorton_video_06_thumb_rollover.jpg</thumbOver>
+				<thumbSelected>/assets/ocp/fa/guide_built/guides/100517/jakenorton_video_06_thumb_rollover.jpg</thumbSelected>
+				<full>/assets/ocp/fa/guide_built/guides/100517/jakenorton_video_06.swf</full>
+				<caption>
+<![CDATA[]]>
+				</caption>
+			</photo>
+		</images>
+		<links></links>
+	</jake>
+</guides>

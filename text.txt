@@ -1,0 +1,53 @@
+jQuery('ul.navTabs').each(function () {
+            var $active, $content, $links = jQuery(this).find('a'), $activeListElement, $t;
+
+            $links.not(':first').each(function () {
+                jQuery('div.item').removeClass('selected').css({ display: "none" });
+            });
+
+            $activeListElement = jQuery('ul.navTabs li.first').addClass('selected');
+            $t = $links.first().addClass('active');
+            $active = jQuery($t.filter(".active").attr("href"));
+            $content = jQuery($t.filter(".active").attr("rel"));
+            var $v = $content.find('var');
+            if ($v.length) {
+                var url = jQuery.trim($v.text());
+                $content.load(url, function (res, sta, xhr) {
+                    if (sta == "error")
+                        $content.text("Error loading slide content: " + xhr.status + " " + xhr.statusText);
+                });
+            }
+            $active.addClass('selected').css({ display: 'block' });
+
+
+            $links.live('click', 'a', function (i) {
+                $activeListElement.removeClass('selected');
+                $t.removeClass('active');
+                var s = $active.filter('.selected');
+                var j = $links.filter('.active');
+                var e = jQuery(this);
+                if (e.hasClass('active'))
+                    return;
+                j.removeClass('active');
+                e.addClass('active');
+                s.removeClass('selected').css({ display: 'none' });
+                $active = jQuery(e.filter(".active").attr("href"));
+                $content = jQuery(e.filter(".active").attr("rel"));
+                var $v = $content.find('var');
+                if ($v.length) {
+                    var url = jQuery.trim($v.text());
+                    if (url.substring(0, 3) != "swf") {
+                        $content.load(url, function (res, sta, xhr) {
+                            if (sta == "error")
+                                $content.text("Error loading slide content: " + xhr.status + " " + xhr.statusText);
+                        });
+                    }
+                }
+                $active.addClass('selected').css({ display: 'block' });
+
+                $activeListElement = jQuery(this).parent();
+                $activeListElement.addClass('selected');
+
+                i.preventDefault();
+            });
+        });

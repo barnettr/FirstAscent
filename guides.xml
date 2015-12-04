@@ -1,0 +1,3227 @@
+<guides>
+    <melissa>
+        <copy>
+            <intro>
+                <![CDATA[Passionate. Enthusiastic. Fun-loving. Melissa is 
+all of those. And a world-class climber, guide and 
+teacher. She's dedicated to helping people push 
+their limits, and doing it safely.]]>
+            </intro>
+            <quote>
+                <![CDATA["What I hope for my clients is that they'll walk away from a climb 
+with respect for themselves and for us guides, but most of all for the 
+indifference of the mountains. Because without that they'll likely never 
+climb again."]]>
+            </quote>
+            <bio>
+                <![CDATA[Melissa already had a career teaching wilderness medicine when she became a professional 
+mountain guide in 2004. Two years later, she was a lead guide. A native of Montana, she's a 
+skilled rock climber and ice leader. Her passions for climbing, teaching and taking care of others 
+have taken her all over the world helping people test their limits in the safest way possible, 
+while still having fun. As part of EVEREST TEAM INSPI(RED), she summited Everest in 2008 to raise 
+awareness of (RED) and its work to help those suffering from HIV/AIDS in Africa.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>130</size>
+            <x>690</x>
+            <y>0</y>
+            <blur>20</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>73</label>
+            <detail>
+                Summits of Mt. Rainier
+                (14,410')
+            </detail>
+        </achievement>
+        <achievement>
+            <paddingTop>-10</paddingTop>
+            <size>68</size>
+            <x>75</x>
+            <y>170</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>29,040'3"</label>
+            <detail>Elevation of Melissa's head on May 22, 2008 and May 23, 2009 summits of Everest</detail>
+            <position>bottom</position>
+            <width>210</width>
+            <offsetX>80</offsetX>
+        </achievement>
+        <achievement>
+            <paddingRight>5</paddingRight>
+            <size>60</size>
+            <x>650</x>
+            <y>150</y>
+            <blur>10</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>5.12</label>
+            <detail>Melissa's rock leads (sport)</detail>
+        </achievement>
+        <achievement>
+            <paddingRight>5</paddingRight>
+            <size>60</size>
+            <x>525</x>
+            <y>225</y>
+            <blur>10</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>WI 5</label>
+            <detail>Melissa's ice leads</detail>
+        </achievement>
+        <achievement>
+            <paddingRight>-45</paddingRight>
+            <size>86</size>
+            <x>470</x>
+            <y>5</y>
+            <blur>10</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>3</label>
+            <detail>Expeditions on Aconcagua (22,841')</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/melissa_name.png</name>
+            <bio>flash/guides/melissa_bio_main.jpg</bio>
+            <intro>flash/guides/melissa_intro_main.jpg</intro>
+            <achievements>flash/guides/melissa_achievements_main.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/1_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/1_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/1_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/1_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa on Aconcagua, Argentina]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/2_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/2_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/2_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/2_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa on Aconcagua, Argentina]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/3_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/3_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/3_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/3_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa makes friends with Newari children in Bhaktapur, Nepal]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/4_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/4_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/4_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/4_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa makes friends with elderly Newari men in Bhaktapur, Nepal]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/5_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/5_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/5_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/5_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa on Cotopaxi, Ecuador]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/6_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/6_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/6_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/6_melissa.jpg</full>
+                <caption>
+                    <![CDATA[Melissa on the summit of Mt. Everest]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/7_melissa_t.jpg</thumb>
+                <thumbOver>flash/guides/7_melissa_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/7_melissa_t_on.jpg</thumbSelected>
+                <full>flash/guides/7_melissa.swf</full>
+                <caption/>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </melissa>
+    <ed>
+        <copy>
+            <intro>
+                <![CDATA[Ed is the only American, and one of only seven people ever, 
+to summit all fourteen 8000-meter peaks without 
+the use of supplemental oxygen.]]>
+            </intro>
+            <quote>
+                <![CDATA["Climbing big mountains is about risk management. Every person has their own
+capacity and willingness to take risks, and you have to be clear and honest with
+yourself about what that is. Because reaching the top is optional; getting back
+down is mandatory."]]>
+            </quote>
+            <bio>
+                <![CDATA[From a boy who grew up on the flatlands of Illinois, Ed has established himself as America's premier 
+high-altitude mountaineer. He's the first American and the fifth person to summit all 14 of the world's 
+8000-meter peaks, all without the use of supplemental oxygen. He moved to Seattle in 1977 to study 
+at the University of Washington and then at Washington State University, where he received his Doctor 
+of Veterinary Medicine degree. He began guiding on Rainier with RMI in 1982 and has participated in 30 
+Himalayan expeditions since 1987.
+
+Ed's first book, <i>No Shortcuts To The Top</i>, was a national bestseller. His newest book, 
+<i>K2: Life and Death on the World's Deadliest Mountain</i>, is now available here at firstascent.com.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>72</size>
+            <x>50</x>
+            <y>215</y>
+            <blur>10</blur>
+            <alpha>0.25</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>7</label>
+            <detail>Summits of Everest (29,035') (four without bottled oxygen)</detail>
+            <paddingRight>-40</paddingRight>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>180</x>
+            <y>160</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>2</label>
+            <detail>Appearances on the Colbert Report</detail>
+            <paddingRight>-40</paddingRight>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>175</x>
+            <y>280</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>200</label>
+            <detail>Summits of Mt. Rainier (14,410')</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>145</size>
+            <x>722</x>
+            <y>37</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>0</label>
+            <detail>Hits of oxygen Ed took while summiting the 14 8000-meter peaks</detail>
+            <paddingRight>-60</paddingRight>
+            <paddingTop>-40</paddingTop>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>762</x>
+            <y>233</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>760,884</label>
+            <detail>Vertical feet Ed's gone up and down to summit the 14 8000ers</detail>
+            <position>bottom</position>
+        </achievement>
+        <images>
+            <name>flash/guides/ed_name.png</name>
+            <bio>flash/guides/guide_bio_ed.jpg</bio>
+            <intro>flash/guides/ed_intro_main.jpg</intro>
+            <achievements>flash/guides/ed_achievements_main.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/1_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/1_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/1_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/1_ed.jpg</full>
+                <caption>Ed on descent, Aconcagua, Argentina</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/2_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/2_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/2_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/2_ed.jpg</full>
+                <caption>Ed on ascent, Aconcagua, Argentina</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/3_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/3_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/3_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/3_ed.jpg</full>
+                <caption>Ed holds the Seahawks 12th Man Flag on the Everest summit [29,035 ft.]</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/4_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/4_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/4_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/4_ed.jpg</full>
+                <caption>Ed doing final gear check (with crampons) prior to the team's summit attempt</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/5_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/5_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/5_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/5_ed.jpg</full>
+                <caption>Ed and Peter approach the base of the Lhotse Face [approx. 22,000 ft.]</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/6_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/6_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/6_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/6_ed.jpg</full>
+                <caption>Ed receives a ceremonial "katha" from Lama Geyshe in Pangboche</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/7_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/7_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/7_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/7_ed.jpg</full>
+                <caption>Ed in the lower Khumbu Icefall [approx. 18,000 ft.]</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/8_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/8_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/8_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/8_ed.jpg</full>
+                <caption>Ed on Everest, May 2009</caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/9_ed_t.jpg</thumb>
+                <thumbOver>flash/guides/9_ed_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/9_ed_t_on.jpg</thumbSelected>
+                <full>flash/guides/9_ed.swf</full>
+                <caption/>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </ed>
+    <peter>
+        <copy>
+            <intro>
+                <![CDATA[Co-owner of Rainier Mountaineering, Inc., the largest 
+guide service in the U.S., Peter leads climbs and ski 
+adventures and hosted an Emmy-nominated show on 
+National Public Television.]]>
+            </intro>
+            <quote>
+                <![CDATA["Climbing mountains is hard. You often encounter adversity. 
+But learning to deal with adversity high on the side of a 
+mountain can help people in their everyday lives. It teaches 
+patience, empathy, respect. And gives us great contrast with 
+our everyday, often non-adventurous lives."]]>
+            </quote>
+            <bio>
+                <![CDATA[Co-owner of Rainier Mountaineering, Inc. (RMI), the largest guide service in the U.S.,
+Peter has been a mountain guide for more than 25 years. Born into what could
+rightfully be called the First Family of American mountaineering, Peter has more
+than held his own outfitting and guiding over 70 expeditions on all seven continents. 
+In 1995, he organized Expedition Inspiration and led a group of breast-cancer
+survivors to the summit of Aconcagua, raising $2.3 million for breast-cancer
+research. He has hosted Trailside, an Emmy-nominated adventure TV series on public
+television. And he continues to lead trips all over the world.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>72</size>
+            <color>0x666666</color>
+            <x>43</x>
+            <y>270</y>
+            <blur>10</blur>
+            <alpha>0.25</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>12</label>
+            <detail>Age Peter was when he made his first summit of  Mt. Ranier (14,410')</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-5</offsetY>
+        </achievement>
+        <achievement>
+            <size>34</size>
+            <x>243</x>
+            <y>177</y>
+            <blur>5</blur>
+            <alpha>0.50</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>2,300,000</label>
+            <detail>Dollars raised for Breast Cancer Research in 1995 Expedition Inspiration on Aconcagua (22,841')</detail>
+            <position>bottom</position>
+            <width>210</width>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>640</x>
+            <y>10</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>44</label>
+            <detail>Expeditions led to Kilimanjaro, Aconcagua, Cotopaxi, Elbrus, Vinson &amp; other major peaks</detail>
+            <position>bottom</position>
+            <paddingBottom>-10</paddingBottom>
+            <width>200</width>
+            <offsetX>-30</offsetX>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>355</x>
+            <y>330</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>225</label>
+            <detail>Summits of Rainier he's made since that first one</detail>
+            <paddingRight>5</paddingRight>
+        </achievement>
+        <achievement>
+            <size>124</size>
+            <color>0x666666</color>
+            <x>710</x>
+            <y>260</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletLight</styleName>
+            <label>25</label>
+            <detail>
+                Years of experience
+                as a mountain guide
+            </detail>
+        </achievement>
+        <images>
+            <name>flash/guides/peter_name.png</name>
+            <bio>flash/guides/peter_bio_main.jpg</bio>
+            <intro>flash/guides/peter_intro_main.jpg</intro>
+            <achievements>flash/guides/peter_achievements_main.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/1_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/1_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/1_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/1_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter and Ed guide clients on Aconcagua]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/2_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/2_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/2_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/2_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter turtles in on Cotopaxi, Ecuador]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/3_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/3_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/3_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/3_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter on Aconcagua, Argentina]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/4_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/4_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/4_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/4_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter on the summit of Mt. Everest. May 19, 2009 [29,035 ft.]]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/5_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/5_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/5_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/5_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter relaxes in his tent, writing in his journal and maximizing the rest day]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/6_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/6_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/6_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/6_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter at the base of the lower Khumbu Icefall [approx. 17,500 ft.]]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/7_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/7_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/7_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/7_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter brewing up at Camp III [approx. 24,000 ft.]]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/8_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/8_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/8_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/8_peter.jpg</full>
+                <caption>
+                    <![CDATA[Peter helps build the helipad for the Himalayan Rescue Association]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/9_peter_t.jpg</thumb>
+                <thumbOver>flash/guides/9_peter_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/9_peter_t_on.jpg</thumbSelected>
+                <full>flash/guides/9_peter.swf</full>
+                <caption/>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </peter>
+    <dave>
+        <copy>
+            <intro>
+                <![CDATA[Dave has summited Everest more times than 
+any non-Sherpa in history. He's won awards for 
+heroic saves. But what you'll remember are his 
+humor and humility.]]>
+            </intro>
+            <quote>
+                <![CDATA["Patience isn't easy to learn, but it can take years to reach a goal. I want people 
+to know how lucky they've been and that luck can go both ways in the mountains. 
+And I want them to be proud and full of the joy of living life at its limits."]]>
+            </quote>
+            <bio>
+                <![CDATA[Dave's 12 summits (so far) of Everest are the most of any non-Sherpa in history. A guide with 
+Rainier Mountaineering, Inc. since 1986, he has twice received prestigious awards for rescue work. 
+In 2001, he was named Denali Pro Mountaineer of the Year for his aid on McKinley. That same year, 
+the American Alpine Club gave him the David A. Sowles Memorial Award for his saves on Everest. 
+During the winter months, Dave works as a ski patroller in Taos, New Mexico.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>140</size>
+            <x>98</x>
+            <y>180</y>
+            <blur>10</blur>
+            <alpha>0.25</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>27</label>
+            <detail>Summits of Mt. Vinson (16,050'), highest peak in Antarctica</detail>
+        </achievement>
+        <achievement>
+            <size>61</size>
+            <x>473</x>
+            <y>45</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>2001</label>
+            <detail>Year Dave won two different awards for  rescues on Denali &amp;  Everest</detail>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>383</x>
+            <y>160</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>250</label>
+            <detail>Summits of Mt. Rainier (14,410')</detail>
+        </achievement>
+        <achievement>
+            <size>86</size>
+            <x>320</x>
+            <y>295</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>20</label>
+            <detail>Summits of Denali   (20,320')</detail>
+        </achievement>
+        <achievement>
+            <size>45</size>
+            <x>779</x>
+            <y>25</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>696,840</label>
+            <detail>Vertical feet Dave's gone up and down on his 12 summits of Everest</detail>
+            <position>bottom</position>
+        </achievement>
+        <images>
+            <name>flash/guides/dave_name.png</name>
+            <bio>flash/guides/guide_bio_dave.jpg</bio>
+            <intro>flash/guides/dave_intro_main.jpg</intro>
+            <achievements>flash/guides/dave_achievements_main.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/1_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/1_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/1_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/1_dave.jpg</full>
+                <caption>
+                    <![CDATA[Dave Hahn stays frosty on Aconcagua]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/2_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/2_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/2_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/2_dave.jpg</full>
+                <caption>
+                    <![CDATA[Dave calls in his tenth summit on Everest]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/3_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/3_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/3_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/3_dave.jpg</full>
+                <caption>
+                    <![CDATA[Enjoying Andean downtime on the long walk in]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/4_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/4_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/4_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/4_dave.jpg</full>
+                <caption>
+                    <![CDATA[Dave showing clients the way on Aconcagua]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/5_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/5_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/5_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/5_dave.jpg</full>
+                <caption>
+                    <![CDATA[Dave pre-sorting the belay at Everest base camp]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/6_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/6_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/6_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/6_dave.jpg</full>
+                <caption>
+                    <![CDATA[Respecting the power of ritual on Everest]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/7_dave_t.jpg</thumb>
+                <thumbOver>flash/guides/7_dave_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/7_dave_t_on.jpg</thumbSelected>
+                <full>flash/guides/7_dave.swf</full>
+                <caption/>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </dave>
+    <chad>
+        <copy>
+            <intro>
+                <![CDATA[Chad's a lead guide and supervisor for Rainier 
+Mountaineering, Inc. He's also a certified rock 
+and Alpine guide through the American Mountain 
+Guide Association.]]>
+            </intro>
+            <quote>
+                <![CDATA["Climbing is more than standing on top. It's the pain, strength of will, 
+camaraderie, and enjoyment of working hard both physically and mentally 
+that truly matter."]]>
+            </quote>
+            <bio>
+                <![CDATA[Chad grew up in North Carolina and lives now in Ridgway, Colorado. He started his guiding career 
+in Alaska in 1996 and continues to guide on remote Alaskan peaks. Although Chad owns his own guide 
+service, Peak Ascents LLC, he works with many reputable guiding outfits throughout the U.S. When at 
+home in Colorado, he guides and instructs ice climbing in and around the nearby Ouray Ice Park. He's 
+also a lead guide and supervisor for RMI, guiding on Rainier, in the North Cascades, and on Denali. 
+He's a certified Rock and Alpine Guide through the American Mountain Guides Association (AMGA).]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>130</size>
+            <x>50</x>
+            <y>190</y>
+            <blur>10</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>1</label>
+            <detail>Number of mammal molars Chad's climbed: The Moose's Tooth (10,300'), Alaska Range</detail>
+            <paddingRight>-70</paddingRight>
+            <width>280</width>
+        </achievement>
+        <achievement>
+            <size>76</size>
+            <x>200</x>
+            <y>150</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletLight</styleName>
+            <label>3</label>
+            <detail>States that Chad typically hangs out in-- Alaska, Colorado, Washington</detail>
+            <paddingRight>-35</paddingRight>
+            <width>280</width>
+        </achievement>
+        <achievement>
+            <size>50</size>
+            <x>453</x>
+            <y>35</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>142,002</label>
+            <detail>Vertical feet Chad's gone up and down on Denali, Pico de Orizaba, Iztaccihuatl, &amp; La Malinche</detail>
+            <position>bottom</position>
+            <width>210</width>
+            <offsetX>10</offsetX>
+        </achievement>
+        <achievement>
+            <size>88</size>
+            <x>767</x>
+            <y>35</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>99</label>
+            <detail>Summits of Mt. Rainier (14,410')</detail>
+            <paddingBottom>-10</paddingBottom>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+        </achievement>
+        <achievement>
+            <size>55</size>
+            <x>642</x>
+            <y>140</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>1</label>
+            <detail>Summit of Aconcagua (22,841')</detail>
+            <paddingRight>-30</paddingRight>
+            <width>200</width>
+            <offsetY>5</offsetY>
+        </achievement>
+        <images>
+            <name>flash/guides/chad_name.png</name>
+            <bio>flash/guides/chadpeele_bio_bg.jpg</bio>
+            <intro>flash/guides/chadpeele_intro_bg.jpg</intro>
+            <achievements>flash/guides/chadpeele_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/chadpeele_photo_1_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_1_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_1_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_1_large.jpg</full>
+                <caption>
+                    <![CDATA[Ouray Ice Park, CO.  Photo: Gabe Rogel]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chadpeele_photo_2_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_2_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_2_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_2_large.jpg</full>
+                <caption>
+                    <![CDATA[Chad Peele climbing "Brass Tacks", Ouray Ice Park, CO.  Photo: Gabe Rogel]]>
+                </caption>
+            </photo>
+            <photo>
+				<thumb>flash/guides/chadpeele_photo_3_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_3_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_3_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_3_large.jpg</full>
+				<caption>
+<![CDATA[Ouray Ice Park, CO.  Photo: Gabe Rogel]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>flash/guides/chadpeele_photo_4_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_4_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_4_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_4_large.jpg</full>
+				<caption>
+<![CDATA[Ouray Ice Park, CO.  Photo: Gabe Rogel]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>flash/guides/chadpeele_photo_5_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_5_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_5_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_5_large.jpg</full>
+				<caption>
+<![CDATA[Ouray Ice Park, CO.  Photo: Gabe Rogel]]>
+				</caption>
+			</photo>
+			<photo>
+				<thumb>flash/guides/chadpeele_photo_6_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_6_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_6_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_6_large.jpg</full>
+				<caption>
+<![CDATA[Chad Peele near base camp Mt Everest.  Photo: Michael Brown]]>
+				</caption>
+			</photo> 
+			<photo>
+				<thumb>flash/guides/chadpeele_photo_7_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_7_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_7_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_7_large.jpg</full>
+				<caption>
+<![CDATA[Chad Peele on Aconcagua, Argentina.  Photo: Jake Norton]]>
+				</caption>
+			</photo>
+            <photo>
+                <thumb>flash/guides/chadpeele_photo_8_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chadpeele_photo_8_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chadpeele_photo_8_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chadpeele_photo_8_large.jpg</full>
+                <caption>
+<![CDATA[Chad Peele heading to High Camp on Aconcagua, Argentina.  Photo: Jake Norton]]>                
+                </caption>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </chad>
+    <seth>
+        <copy>
+            <intro>
+                <![CDATA[Seth has a lifelong love of the outdoors and a degree 
+in Mathematics. When he did the math, he figured 
+that added up to a mountain guide career.]]>
+            </intro>
+            <quote>
+                <![CDATA["The physical techniques of climbing are pretty easy to learn. The harder 
+part is to cut away the trappings of society and experience the mountains 
+on their terms. But when people do that, adversity up there can teach us 
+a lot about ourselves."]]>
+            </quote>
+            <bio>
+                <![CDATA[Growing up in Colorado and California, Seth learned to love the outdoors early on, 
+thanks to the influence of his parents and grandparents. After earning a degree in 
+Mathematics from the University of California at Santa Barbara, he took a career path 
+that followed his passion: In the summers he guides on Rainier, Denali and Kilimanjaro. 
+In the winters, Seth simply moves to the other side of Rainier where he's a Ski Patroller 
+at Crystal Mountain.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>79</size>
+            <x>80</x>
+            <y>170</y>
+            <blur>10</blur>
+            <alpha>0.25</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>58</label>
+            <detail>Summits of Mt. Rainier (14,410')</detail>
+            <position>bottom</position>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>130</size>
+            <x>280</x>
+            <y>190</y>
+            <blur>5</blur>
+            <alpha>0.5</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>200</label>
+            <detail>Days a year Seth spends in high mountains climbing, guiding &amp; ski patrolling (your basic suit type)</detail>
+            <width>220</width>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>440</x>
+            <y>110</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>225,524</label>
+            <detail>Vertical feet Seth's gone up and down on Kilimanjaro, Pico de Orizaba &amp; Iztaccihuatl</detail>
+            <position>bottom</position>
+            <width>200</width>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>75</size>
+            <x>500</x>
+            <y>10</y>
+            <blur>5</blur>
+            <alpha>0.75</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>3</label>
+            <detail>Expeditions on Denali (20,320')</detail>
+            <paddingRight>-40</paddingRight>
+        </achievement>
+        <images>
+            <name>flash/guides/seth_name.png</name>
+            <bio>flash/guides/seth_bio_main.jpg</bio>
+            <intro>flash/guides/seth_intro_main.jpg</intro>
+            <achievements>flash/guides/seth_achievements_main.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/1_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/1_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/1_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/1_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth on the summit of Mt. Everest [29,035 ft.]]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/2_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/2_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/2_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/2_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth walks through the blue ice features of the lower Khumbu Icefall, Everest [approx. 18,000 ft.]]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/3_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/3_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/3_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/3_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth gazes at his first closeup of Everest from Kala Pattar]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/4_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/4_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/4_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/4_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth takes in the view during a walk along the Syangboche Ridge]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/5_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/5_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/5_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/5_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth plays hacky sack with a child on a stop in a Khumbu Valley village]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/6_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/6_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/6_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/6_seth.jpg</full>
+                <caption>
+                    <![CDATA[Seth, Denali, Alaska, on the climb prior to his ski descent]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/7_seth_t.jpg</thumb>
+                <thumbOver>flash/guides/7_seth_t_on.jpg</thumbOver>
+                <thumbSelected>flash/guides/7_seth_t_on.jpg</thumbSelected>
+                <full>flash/guides/7_seth.swf</full>
+                <caption/>
+            </photo>
+        </images>
+        <links>
+        </links>
+    </seth>
+    <ben>
+        <copy>
+            <intro>
+                <![CDATA[Ben was named National Geographic Adventure 
+Hero of the Year in 2007. He's one of the 
+world's leading extreme kayakers.]]>
+            </intro>
+            <quote>
+                <![CDATA["The last unexplored parts of our planet's surface are hidden in 
+Class V river canyons."]]>
+            </quote>
+            <bio>
+                <![CDATA[Ben is a Class V expedition kayaker who has been featured in a variety of media outlets, 
+including Wall Street Journal, NBC’s Today Show and the American News Room. 
+He was the first kayaker to descend 70+ sections of rivers in 13 countries. 
+In addition, Ben has produced 8 feature-length kayak movies through his 
+production company, Clear H2O Films. Most notably, he has helped construct 
+three county bridges, a forest service fish hatchery, an ice skating rink 
+and a county waste transfer station.
+
+PROFESSIONAL CERTIFICATIONS
+· Bachelor’s of Science with a double major in Math and Geology
+· Wilderness First Responder
+· Swift Water Rescue Certification
+· ACA Instructor Certificate
+
+ACHIEVEMENTS
+· 2009 – Recognized expedition kayaker in the Wall Street Journal
+· 2007 – National Geographic Adventure Hero of the Year
+· 2006-2009 – Contributor to the non-profit organization South Asian River Skills Institute
+· 2005 – Banff Film World
+· 2003-2004 – Two-time Banff Mountain Film Festival Selection
+· 2nd place finish at the Red Bull Divide and Conquer ]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/stookesberry_title.swf</name>
+            <bio>flash/guides/stookesberry_bio.jpg</bio>
+            <intro>flash/guides/stookesberry_intro.jpg</intro>
+            <achievements></achievements>
+            <photo>
+                <thumb>flash/guides/stookesberry_thumb1_default.jpg</thumb>
+                <thumbOver>flash/guides/stookesberry_thumb1.jpg</thumbOver>
+                <thumbSelected>flash/guides/stookesberry_thumb1.jpg</thumbSelected>
+                <full>flash/guides/stookesberry_photo1.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/stookesberry_thumb2_default.jpg</thumb>
+                <thumbOver>flash/guides/stookesberry_thumb2.jpg</thumbOver>
+                <thumbSelected>flash/guides/stookesberry_thumb2.jpg</thumbSelected>
+                <full>flash/guides/stookesberry_photo2.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/stookesberry_thumb3_default.jpg</thumb>
+                <thumbOver>flash/guides/stookesberry_thumb3.jpg</thumbOver>
+                <thumbSelected>flash/guides/stookesberry_thumb3.jpg</thumbSelected>
+                <full>flash/guides/stookesberry_photo3.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/stookesberry_thumb4_default.jpg</thumb>
+                <thumbOver>flash/guides/stookesberry_thumb4.jpg</thumbOver>
+                <thumbSelected>flash/guides/stookesberry_thumb4.jpg</thumbSelected>
+                <full>flash/guides/stookesberry_photo4.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/stookesberry_thumb5_default.jpg</thumb>
+                <thumbOver>flash/guides/stookesberry_thumb5.jpg</thumbOver>
+                <thumbSelected>flash/guides/stookesberry_thumb5.jpg</thumbSelected>
+                <full>flash/guides/stookesberry_photo5.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kayak_trailer_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kayak_trailer.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </ben>
+    <jesse>
+        <copy>
+            <intro>
+                <![CDATA[Jesse travels the world in pursuit of Class V whitewater. 
+When not extreme kayaking, he skis, plays hockey and 
+participates in search and rescues. In 2006, he was 
+named National Geographic Adventurer of the Year.]]>
+            </intro>
+            <quote>
+                <![CDATA["I am an adventurer at heart and have built my life around three tenets: 
+continually push the envelope of my abilities, take on new challenges 
+that make me uncomfortable and require learning, and be kind to 
+others."]]>
+            </quote>
+            <bio>
+                <![CDATA[Jesse Coombs is one of today's leading adventurers in Class V expedition whitewater kayaking. 
+With calm confidence and a friendly smile Jesse explores the most intriguing and remote 
+corners of the earth. Redefining the limits of adventure travel and whitewater kayaking, 
+he pioneers first descents on previously unthinkable stretches of the world's most remote 
+and untamed creeks, rivers and waterfalls. Additionally, Jesse brings tremendous technical 
+and business experience providing a unique ability to be a highly capable contributor to 
+any situation. National Geographic named him "Adventurer of the Year" in 2006. 
+
+PROFESSIONAL CERTIFICATIONS
+· Wilderness First Responder
+· Swift Water Rescue Certification
+· ACA White Water Certification
+· OSU Outdoor Recreation Center Kayak Instructor
+· Skamokawa Sea Kayak Center Guide 
+
+ADDITIONAL ATHLETIC CERTIFICATIONS AND ACHIEVEMENTS
+· Avalanche Level 1 Instructor
+· Ski Patrol, Santiam Pass, Nordic, Alpine and Snowboard
+· Level 1 PSIA Ski Instructor, Keystone Resort 
+· State of Oregon Search and Rescue, Mary’s Peak
+· Trip Leader, Sierra Club
+· President & Captain, Rutgers Collegiate Ice Hockey
+· Ice Hockey and Roller Hockey Instructor
+· 1,800 mile bicycle trip, Oregon, Idaho, Montana, Wyoming & Colorado
+· President, Outdoor Adventure Resource ]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/jesse_title.swf</name>
+            <bio>flash/guides/jesse_bio.jpg</bio>
+            <intro>flash/guides/jesse_intro.jpg</intro>
+            <achievements></achievements>
+            <photo>
+                <thumb>flash/guides/jesse_thumb1_default.jpg</thumb>
+                <thumbOver>flash/guides/jesse_thumb1.jpg</thumbOver>
+                <thumbSelected>flash/guides/jesse_thumb1.jpg</thumbSelected>
+                <full>flash/guides/jesse_photo1.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jesse_thumb2_default.jpg</thumb>
+                <thumbOver>flash/guides/jesse_thumb2.jpg</thumbOver>
+                <thumbSelected>flash/guides/jesse_thumb2.jpg</thumbSelected>
+                <full>flash/guides/jesse_photo2.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jesse_thumb3_default.jpg</thumb>
+                <thumbOver>flash/guides/jesse_thumb3.jpg</thumbOver>
+                <thumbSelected>flash/guides/jesse_thumb3.jpg</thumbSelected>
+                <full>flash/guides/jesse_photo3.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jesse_thumb4_default.jpg</thumb>
+                <thumbOver>flash/guides/jesse_thumb4.jpg</thumbOver>
+                <thumbSelected>flash/guides/jesse_thumb4.jpg</thumbSelected>
+                <full>flash/guides/jesse_photo4.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jesse_thumb5_default.jpg</thumb>
+                <thumbOver>flash/guides/jesse_thumb5.jpg</thumbOver>
+                <thumbSelected>flash/guides/jesse_thumb5.jpg</thumbSelected>
+                <full>flash/guides/jesse_photo5.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kayak_trailer_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kayak_trailer.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </jesse>
+    <caroline>
+        <copy>
+            <intro>
+                <![CDATA[The Roman philosopher Seneca said, "There is no delight 
+in owning anything unshared." Caroline carries that belief 
+with her as she travels the world in search of new rock faces 
+and frozen waterfalls to conquer.
+]]>
+            </intro>
+            <quote>
+                <![CDATA["Climbing offers a different perspective on discovering new cultures 
+through traveling ... Guiding enables me to communicate these insights. 
+It gives all the more meaning to what I do."]]>
+            </quote>
+            <bio>
+                <![CDATA[Caroline brings a diverse climbing and professional background to the First Ascent team. 
+She has four years as a skiing, alpine, ice- and rock-climbing guide in the U.S., as well as a 
+Masters degree in Law from the University of Fribourg in her native Switzerland. Caroline has 
+written (and translated) dozens of articles about climbing in American, Canadian, French and Swiss 
+publications. She earned her certification in the International Federation of Mountain Guides (IFMGA) 
+in 2010—-one of only seven women in the U.S. to reach that standard.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>64</size>
+            <width>220</width>
+            <x>114</x>
+            <y>180</y>
+            <blur>0</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>WI6+</label>
+            <detail>Grade of completed climbs--vertical, overhanging, no rests</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>36</size>
+            <width>200</width>
+            <x>102</x>
+            <y>331</y>
+            <blur>0</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>1 meter</label>
+            <detail>Height of margarita that Caroline conquered in Vegas</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>120</size>
+            <x>559</x>
+            <y>76</y>
+            <blur>0</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>6</label>
+            <detail>Great north faces in the Alps: Eiger, Matterhorn, Grandes Jorasses, Courtes, Droites, Piz Badile</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-15</offsetY>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>592</x>
+            <y>336</y>
+            <blur>0</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>5.12b</label>
+            <detail>Rating of Caroline's most difficult rock climb</detail>
+            <offsetX>2</offsetX>
+            <offsetY>8</offsetY>
+        </achievement>
+        <achievement>
+            <size>78</size>
+            <width>130</width>
+            <x>826</x>
+            <y>195</y>
+            <blur>0</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>4</label>
+            <detail>First ascents of ice climbs in Norway</detail>
+            <position>bottom</position>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <images>
+            <name>flash/guides/carolinegeorge_name.swf</name>
+            <bio>flash/guides/carolinegeorge_bio_bg.jpg</bio>
+            <intro>flash/guides/carolinegeorge_intro_bg.jpg</intro>
+            <achievements>flash/guides/carolinegeorge_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/caroline_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George on the first ascent of "Uprising" in the Wadi Rum, Jordan.  Photo: Jim Surette]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George on Chamonix in Switzerland.  Photo: Jonathan Griffith]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George climbing "To The Members" on Ko Yawabun in Thailand.  Photo: Jim Surette]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George heading out from base camp at Mt. Vinson, Antarctica.  Photo: Jake Norton]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George on the first ascent of "Uprising" in the Wadi Rum, Jordan.  Photo: Jim Surette]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline George on a one day ascent of The Eiger, Switzerland.  Photo: Jonathan Griffith]]>
+                </caption>
+            </photo>
+            <!--<photo>
+                <thumb>flash/guides/caroline_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[Caroline pulling through on Goldmember in Eidfjord]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_08_large.jpg</full>
+                <caption>
+                    <![CDATA[A spent profile after sixteen days of Norwegian ice]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/caroline_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/caroline_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/caroline_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/caroline_photo_09_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>-->
+        </images>
+        <links></links>
+    </caroline>
+    <jake>
+        <copy>
+            <intro>
+                <![CDATA[At age 12, Jake climbed Mount Rainier and was
+instantly hooked. Today he's a world-class
+guide who speaks fluent Nepali and considers
+the Himalaya his second home.]]>
+            </intro>
+            <quote>
+                <![CDATA["... The summit's just a small patch of snow along the way. It's our 
+experiences on the sides of our mountains that last, that linger, 
+that provoke, and that, ultimately, define who we are."]]>
+            </quote>
+            <bio>
+                <![CDATA[Jake has worked as a professional guide since 1993. He was part of the team 
+that discovered the body of George Mallory on Everest in 1999, and the first 
+person to visit and document all of the pre-World War II camps on Everest. 
+Jake has climbed extensively throughout the Himalaya and Andes, and also retraced 
+Sir Ernest Shackleton's 1917 crossing of the island of South Georgia.
+
+Jake is the director of the American Mountaineering Museum in Golden, CO, and sits 
+on the International Advisory Council for The Mountain Fund. As a professional photographer, 
+he has covered assignments for Discovery Channel, PBS/NOVA, BBC, Channel 4 and the Outdoor 
+Life Network.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>140</size>
+            <width>220</width>
+            <x>40</x>
+            <y>141</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>89</label>
+            <detail>Summits of Mt. Rainier</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-20</offsetY>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <width>200</width>
+            <x>187</x>
+            <y>307</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>25,242'</label>
+            <detail>The altitude of Gurla Mandhata, of which Jake made the first official American ascent</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>373</x>
+            <y>163</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>20+</label>
+            <detail>Expeditions to Nepal and Tibet</detail>
+            <position>bottom</position>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>56</size>
+            <width>230</width>
+            <x>435</x>
+            <y>44</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>94,213</label>
+            <detail>Number of times he clicked the shutter on his cameras in 2009</detail>
+            <offsetX>2</offsetX>
+            <offsetY>-4</offsetY>
+        </achievement>
+        <achievement>
+            <size>78</size>
+            <paddingRight>-40</paddingRight>
+            <x>787</x>
+            <y>212</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>3</label>
+            <detail>
+                <![CDATA[Summits of Everest
+(29,035')]]>
+            </detail>
+        </achievement>
+        <images>
+            <name>flash/guides/jakenorton_name.swf</name>
+            <bio>flash/guides/jakenorton_bio_bg.jpg</bio>
+            <intro>flash/guides/jakenorton_intro_bg.jpg</intro>
+            <achievements>flash/guides/jakenorton_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/jakenorton_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Jake Norton practicing his fluency in Nepalese]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jakenorton_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Jake taking the wife and kid to the top of Everest]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jakenorton_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Jake heading to temple at Tengboche Monastery]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jakenorton_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Jake putting down the camera for his summit shot]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jakenorton_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[Base camp smile from the other side of the lens]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/jakenorton_video_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/jakenorton_video_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/jakenorton_video_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/jakenorton_video_06.swf</full>
+                <caption>
+                    <![CDATA[Jake Norton, behind the lens feature]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </jake>
+    <erik>
+        <copy>
+            <intro>
+                <![CDATA[Erik enjoys traveling the world, but also likes 
+the world-class climbing and skiing in his backyard 
+of Sun Valley, ID. Sleeping at home—instead of in 
+a tent on a mountain face—is nice, too.]]>
+            </intro>
+            <quote>
+                <![CDATA["Part of the challenge, and ultimately the joy of being a mountain guide, 
+is to artfully navigate the fine line between steep and too steep, 
+scared and too scared, and between time in the mountains and time 
+with family."]]>
+            </quote>
+            <bio>
+                <![CDATA[Like fellow First Ascent guides Reggie and Zach Crist, Erik grew up in the 
+Ketchum/Sun Valley area of Idaho, and the mountains have always been 
+a part of his life. He currently operates and co-owns Sawtooth Mountain 
+Guides in Stanley, ID, and also serves as operations manager for Sun 
+Valley Heli Ski. Erik holds UIAGM/IFMGA guide certification, and has 
+16 years of experience as a guide throughout North and South America.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>140</size>
+            <width>220</width>
+            <x>59</x>
+            <y>137</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>4</label>
+            <detail>Girls who outnumber him at home: wife Gretchen, daughters Sascha and Svea, dog Dharma</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-20</offsetY>
+        </achievement>
+        <achievement>
+            <size>120</size>
+            <x>172</x>
+            <y>280</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <paddingRight>-80</paddingRight>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>1</label>
+            <detail>Descent of the Kitty      Litter Couloir (10,635’),      with Zach Crist</detail>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>449</x>
+            <y>250</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>72</label>
+            <detail>Number of IFMGA Mountain Guides in the U.S.</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>56</size>
+            <width>75</width>
+            <x>610</x>
+            <y>165</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <label>324,125</label>
+            <detail>Miles on his '86 VW Vanagon</detail>
+            <offsetX>2</offsetX>
+            <offsetY>-4</offsetY>
+        </achievement>
+        <achievement>
+            <size>78</size>
+            <paddingRight>-40</paddingRight>
+            <x>714</x>
+            <y>267</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>200</label>
+            <position>bottom</position>
+            <offsetY>-10</offsetY>
+            <detail>Hours spent in the front seat of an A-Star heli</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/erikleidecker_name.swf</name>
+            <bio>flash/guides/erikleidecker_bio_photo.jpg</bio>
+            <intro>flash/guides/erikleidecker_intro_bg.jpg</intro>
+            <achievements>flash/guides/erikleidecker_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_08_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/erikleidecker_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/erikleidecker_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/erikleidecker_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/erikleidecker_photo_09_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </erik>
+    <kent>
+        <copy>
+            <intro>
+                <![CDATA[Kent grew up in Colorado, and today he's 
+one of a very select group of guides who 
+holds UIAGM/IFMGA certification in rock, 
+alpine and ski mountaineering.]]>
+            </intro>
+            <quote>
+                <![CDATA["My enthusiasm for guiding, skiing and climbing 
+is fed by my clients. They inspire me with 
+their determination and excitement when they 
+face new adventures."]]>
+            </quote>
+            <bio>
+                <![CDATA[Throughout the past 25 years, Kent has traveled the world 
+as a climber and skier. In 2005, he climbed the central 
+summit of Shishapangma (26,289 ft.) in Tibet—without 
+bottled oxygen—and then made the first ski descent of its 
+Untsch Couloir. He's also an accomplished rock climber, 
+having scaled El Capitan eight times. Kent has spent the 
+last 15 seasons as a guide in some of Alaska's wildest 
+heli-skiing areas.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>80</size>
+            <width>220</width>
+            <x>55</x>
+            <y>278</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>2,276</label>
+            <detail>Heli-ski runs in Italy, Greenland, Sweden, Chile, New Zealand, Canada and the U.S.</detail>
+            <position>bottom</position>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>248</x>
+            <y>154</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>222'</label>
+            <detail>Kent's longest                   Gelande jump</detail>
+        </achievement>
+        <achievement>
+            <size>70</size>
+            <x>603</x>
+            <y>23</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>154</label>
+            <detail>Summits of the Grand Teton</detail>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>56</size>
+            <x>825</x>
+            <y>148</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>5.12c</label>
+            <position>bottom</position>
+            <detail>Kent's best post                   heli-belly rock climb</detail>
+            <offsetX>2</offsetX>
+            <offsetY>-4</offsetY>
+        </achievement>
+        <achievement>
+            <size>68</size>
+            <paddingRight>-40</paddingRight>
+            <x>774</x>
+            <y>271</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <position>bottom</position>
+            <label>8,000m</label>
+            <offsetX>50</offsetX>
+            <detail>Highest elevation at which he made turns (without supplemental oxygen)</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/kentmcbride_name.swf</name>
+            <bio>flash/guides/kentmcbride_bio_photo.jpg</bio>
+            <intro>flash/guides/kentmcbride_intro_bg.jpg</intro>
+            <achievements>flash/guides/kentmcbride_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kentmcbride_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kentmcbride_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kentmcbride_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kentmcbride_photo_07_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </kent>
+    <lel>
+        <copy>
+            <intro>
+                <![CDATA[Lel was born in Switzerland, so skiing is in 
+her blood. Today she splits her time between 
+ski guiding, forecasting avalanches and 
+teaching avalanche safety.]]>
+            </intro>
+            <quote>
+                <![CDATA["To make a living in the mountains is to be 
+at the mercy of Mother Nature. We are reminded 
+every day of how fragile and precious our lives 
+really are."]]>
+            </quote>
+            <bio>
+                <![CDATA[Lel started skiing as a child in the Alps, then left Switzerland 
+for the U.S. when she was 10. She began ski-racing while 
+in college in Vermont, and later moved to Lake Tahoe. 
+Lel has competed in freeskiing competitions, professional 
+mountain-bike races, and as an elite-level paddleboarder. 
+During the winter, she works as an avalanche forecaster 
+for Squaw Valley Ski Patrol and as a lead guide in Alaska 
+with Chugach Powder Guides. Lel holds Level 1-3 avalanche 
+certifications and is a licensed blaster in California. 
+She is also an instructor with the American Institute for 
+Avalanche Research and Education (AIARE) and the 
+National Ski Patrol, and a certified EMT.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>78</size>
+            <width>220</width>
+            <x>76</x>
+            <y>185</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>3</label>
+            <detail>Speeding tickets received             in three different states            during one five-hour period</detail>
+            <paddingRight>-45</paddingRight>
+        </achievement>
+        <achievement>
+            <paddingRight>-55</paddingRight>
+            <size>100</size>
+            <x>205</x>
+            <y>284</y>
+            <blur>0.01</blur>
+            <alpha>1</alpha>
+            <letterSpacing>-5</letterSpacing>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>2</label>
+            <detail>Age when Lel started              skiing</detail>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>258</x>
+            <y>122</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>5,760</label>
+            <detail>Explosive charges           thrown by Lel during            her ski patrol career</detail>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>64</size>
+            <x>467</x>
+            <y>300</y>
+            <blur>0.01</blur>
+            <alpha>1</alpha>
+            <styleName>AchievementBulletExt</styleName>
+            <label>31</label>
+            <detail>Runs guided in one day of heli-skiing in the Alaska backcountry</detail>
+        </achievement>
+        <achievement>
+            <size>86</size>
+            <x>620</x>
+            <y>88</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>30</label>
+            <detail>Pounds of explosives that Lel carries on her back when performing     avalanche control</detail>
+            <offsetY>-5</offsetY>
+        </achievement>
+        <achievement>
+            <size>64</size>
+            <x>729</x>
+            <y>329</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <label>12</label>
+            <detail>The number of seasons that Lel has been Heli ski guiding in Alaska</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/leltone_name.swf</name>
+            <bio>flash/guides/leltone_bio_photo.jpg</bio>
+            <intro>flash/guides/leltone_intro_bg.jpg</intro>
+            <achievements>flash/guides/leltone_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/leltone_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/leltone_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/leltone_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/leltone_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/leltone_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/leltone_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/leltone_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/leltone_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/leltone_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/leltone_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/leltone_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/leltone_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/leltone_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/leltone_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/leltone_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/leltone_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/leltone_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/leltone_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/leltone_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/leltone_photo_05_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </lel>
+    <tom>
+        <copy>
+            <intro>
+                <![CDATA[Like a lot of big mountain skiers, Tom grew up
+ski racing. But it's on the giant peaks where
+he’s really made his name.]]>
+            </intro>
+            <quote>
+                <![CDATA["I really enjoy cracking the proverbial shell on someone's 
+unexplored potential. Bottom line, guiding is about giving 
+people the best runs of their lives and serving up the goods."]]>
+            </quote>
+            <bio>
+                <![CDATA[The lead guide for Southeast Alaska Backcountry Adventures (SEABA) in Haines, AK, Tom
+has multiple first ski descents to his credit, including the Lower South Face of Mt. St. Elias
+in Alaska, and several peaks on the Kamchatka Peninsula and the Krasnaya Polyana in
+Russia. He's been a featured skier in many Rage Films productions and has appeared on
+the cover of Skiing Magazine. As a guide, Tom brings avalanche and crevasse rescue
+certification, as well as EMT certification to every expedition. When he's not skiing, Tom is
+an accomplished ice and rock climber.
+
+CERTIFICATIONS
+EMT/Wilderness First Responder
+Avalanche Level 1 and 2]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>72</size>
+            <x>33</x>
+            <y>201</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>1st</label>
+            <detail>Descent of the Lower South Face of Mt. Elias</detail>
+            <position>bottom</position>
+            <offsetX>15</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <achievement>
+            <size>100</size>
+            <x>245</x>
+            <y>286</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <label>2</label>
+            <detail>Times Tom was featured          on the cover of Skiing Magazine</detail>
+            <paddingRight>-40</paddingRight>
+        </achievement>
+        <achievement>
+            <size>56</size>
+            <x>578</x>
+            <y>168</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>1998</label>
+            <detail>Year in which Tom was certified an EMT</detail>
+            <position>bottom</position>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>72</size>
+            <x>647</x>
+            <y>23</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>100s</label>
+            <detail>of first descents in the Chilkat Range in Southeast Alaska</detail>
+        </achievement>
+        <achievement>
+            <size>78</size>
+            <x>744</x>
+            <y>303</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>7</label>
+            <paddingRight>-40</paddingRight>
+            <detail>Appearances in               Rage skiing films</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/tomwayes_name.swf</name>
+            <bio>flash/guides/tomwayes_bio_photo.jpg</bio>
+            <intro>flash/guides/tomwayes_intro_bg.jpg</intro>
+            <achievements>flash/guides/tomwayes_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/tomwayes_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/tomwayes_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/tomwayes_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/tomwayes_photo_07_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </tom>
+    <zach>
+        <copy>
+            <intro>
+                <![CDATA[Zach has been on skis for as long as he's been
+able to stand upright. A former World Cup racer
+and X Games champion, he's now taking on
+new challenges in the Idaho backcountry.]]>
+            </intro>
+            <quote>
+                <![CDATA["For me, being in the outdoors is all about tapping 
+into those epic moments and sharing them with people I enjoy."]]>
+            </quote>
+            <bio>
+                <![CDATA[Zach's career on skis closely mirrors that of his brother 
+and fellow First Ascent guide, Reggie. Both were members 
+of the U.S. Ski Team, then pioneers in the sport of Ski Cross, 
+made popular by the X Games. Zach won three medals in the X Games 
+before retiring from competitive skiing to focus entirely on 
+backcountry guiding. He and Reggie have appeared in several 
+Warren Miller films, and also produce adventure documentaries 
+with their own company, Equator Productions.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>100</size>
+            <x>68</x>
+            <y>188</y>
+            <blur>0.01</blur>
+            <alpha>0.95</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>7</label>
+            <detail>Years on the World Cup tour with the U.S. Ski Team</detail>
+            <paddingRight>-60</paddingRight>
+        </achievement>
+        <achievement>
+            <size>88</size>
+            <width>200</width>
+            <x>243</x>
+            <y>303</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>3</label>
+            <detail>Medals won in the X Games</detail>
+            <paddingRight>-40</paddingRight>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <x>505</x>
+            <y>53</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>2001</label>
+            <detail>Year Zach won gold in Ski Cross at the X Games</detail>
+            <position>bottom</position>
+            <offsetX>5</offsetX>
+        </achievement>
+        <achievement>
+            <size>130</size>
+            <x>577</x>
+            <y>269</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>1</label>
+            <detail>North American               Super-G title</detail>
+            <paddingRight>-75</paddingRight>
+            <offsetY>5</offsetY>
+        </achievement>
+        <achievement>
+            <size>140</size>
+            <paddingRight>-80</paddingRight>
+            <x>718</x>
+            <y>40</y>
+            <blur>0.01</blur>
+            <alpha>0.8</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>4</label>
+            <detail>Countries in which Zach has made a first descent: Nepal, Greenland, New Zealand and the U.S.</detail>
+        </achievement>
+        <achievement>
+            <size>56</size>
+            <width>220</width>
+            <x>785</x>
+            <y>210</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <label>31</label>
+            <detail>Years of big living in the small town of Sun Valley, ID</detail>
+            <position>bottom</position>
+            <offsetX>5</offsetX>
+        </achievement>
+        <images>
+            <name>flash/guides/zachcrist_name.swf</name>
+            <bio>flash/guides/zachcrist_bio_photo.jpg</bio>
+            <intro>flash/guides/zachcrist_intro_bg.jpg</intro>
+            <achievements>flash/guides/zachcrist_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_08_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/zachcrist_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/zachcrist_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/zachcrist_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/zachcrist_photo_09_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </zach>
+    <reggie>
+        <copy>
+            <intro>
+                <![CDATA[From racing in the Olympics, to pioneering
+the sport of Ski Cross, to becoming a heli-
+skiing guide, Reggie's life and career
+have been shaped by the mountains.]]>
+            </intro>
+            <quote>
+                <![CDATA["There's no substitute for experience in the big mountains, 
+and sharing the adventure with others is extremely rewarding."]]>
+            </quote>
+            <bio>
+                <![CDATA[Chasing snow around the globe has been Reggie's occupation 
+for more than 20 years, with a job description that reads 
+more like a travelogue. His journey began with 10 years 
+of World Cup downhill ski racing before he turned his 
+attention to the new sport of Ski Cross (SX). In 2005, 
+Reggie became the first repeat SX champion at the X Games. 
+He then moved to the big mountains of Alaska and heli-skiing. 
+Reggie and his brother, fellow First Ascent guide Zach Crist, 
+have been featured in several Warren Miller films 
+(including the 2010 release, Dynasty). When he's not skiing, 
+Reggie can be found charging rivers in his kayak, or chasing 
+surf in Hawaii or Mexico.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>90</size>
+            <x>25</x>
+            <y>155</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>3</label>
+            <detail>Warren Miller films in              which Reggie has               appeared</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <achievement>
+            <size>60</size>
+            <x>241</x>
+            <y>337</y>
+            <paddingRight>5</paddingRight>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>10</label>
+            <detail>Years as a member of the U.S. Ski Team</detail>
+        </achievement>
+        <achievement>
+            <size>120</size>
+            <x>626</x>
+            <y>57</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletBlack</styleName>
+            <label>5</label>
+            <detail>Consecutive podiums in SkiCross at X-Games</detail>
+            <paddingRight>-60</paddingRight>
+        </achievement>
+        <achievement>
+            <size>48</size>
+            <width>230</width>
+            <x>788</x>
+            <y>208</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>12</label>
+            <position>bottom</position>
+            <detail>Years of Alaska heli-skiing experience</detail>
+            <offsetX>2</offsetX>
+            <offsetY>-4</offsetY>
+        </achievement>
+        <achievement>
+            <size>92</size>
+            <paddingRight>-40</paddingRight>
+            <x>618</x>
+            <y>283</y>
+            <blur>0.01</blur>
+            <alpha>0.7</alpha>
+            <styleName>AchievementBulletCondensed</styleName>
+            <label>1</label>
+            <detail>Podium he shared with his brother Zach at X-Games</detail>
+        </achievement>
+        <images>
+            <name>flash/guides/reggiecrist_name.swf</name>
+            <bio>flash/guides/reggiecrist_bio_photo.jpg</bio>
+            <intro>flash/guides/reggiecrist_intro_bg.jpg</intro>
+            <achievements>flash/guides/reggiecrist_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_08_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/reggiecrist_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/reggiecrist_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/reggiecrist_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/reggiecrist_photo_09_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </reggie>
+    <lynsey>
+        <copy>
+            <intro>
+                <![CDATA[Champion skier. Accomplished artist
+and designer. Model. TV personality.
+Fearless adventurer. Lynsey's had a
+stellar career on and off the slopes.]]>
+            </intro>
+            <quote>
+                <![CDATA["I'm fairly certain that if the entire world could experience making 
+a turn in powder snow or down the face of a wave, the only thing 
+we'd be fighting for is more of those opportunities."]]>
+            </quote>
+            <bio>
+                <![CDATA[Lynsey is a renowned female American freeskier and Big Mountain skier. She was recently 
+named Female Skier of the Year by Powder Magazine. In addition to having a stellar 
+ski career, Lynsey is an accomplished graphic artist, founder of SheJumps.org, 
+a non-profit that inspires women to get involved in sports, and has been involved 
+in numerous TV and Film projects.
+
+Lynsey is a renowned female <a href="/assets/ocp/fa/guides/Lynsey_pop_up.html" class="fb" rev="typeOptions:inline enableDragMove:true"><i>American freeskier and Big Mountain skier</i></a>.]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/lynseydyer_name.swf</name>
+            <bio>flash/guides/lynseydyer_bio_photo.jpg</bio>
+            <intro>flash/guides/lynseydyer_intro_bg.jpg</intro>
+            <achievements>flash/guides/lynseydyer_achievements_bg.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyert_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lynseydyer_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lynseydyer_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lynseydyer_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lynseydyer_photo_08_video.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </lynsey>
+    <chris>
+        <copy>
+            <intro>
+                <![CDATA[Chris is the consummate adventurer. 
+From skiing active volcanoes in Chile 
+to paddling uncharted waters in the 
+Himalayas, he has chosen kayaking 
+as his ultimate adventure sport.]]>
+            </intro>
+            <quote>
+                <![CDATA["There are peaks of achievement along every river, but the finality of 
+committing to an unknown path is what inspires me to travel it."]]>
+            </quote>
+            <bio>
+                <![CDATA[Born and raised along the Rogue River in southern Oregon, Chris has been on the river since 
+before he could walk—-and it shows. He's now one of the most accomplished expedition kayakers 
+in the world, walking the thin line at the limits of the sport and looking to go even further. At ease 
+in the most harrowing situations, Chris relies on his experience while guiding on Class V rivers 
+around the world. With a life on the river and camera in hand, he has a unique ability to capture 
+stunning whitewater images.
+
+ACHIEVEMENTS
+· Internationally published photographer
+· Contributing cinematographer, H2O films
+· Gear and instruction contributor to the nonprofit South Asian River Skills Institute
+· 200+ days per year on the water; last five years committed to international first descents]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/chriskorbulic_name.swf</name>
+            <bio>flash/guides/chriskorbulic_bio.jpg</bio>
+            <intro>flash/guides/chriskorbulic_intro.jpg</intro>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_01_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_02_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_03_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_04_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_05_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_06_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriskorbulic_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriskorbulic_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriskorbulic_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriskorbulic_photo_07_big.jpg</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kayak_trailer_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kayak_trailer_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kayak_trailer.swf</full>
+                <caption>
+                    <![CDATA[]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </chris>
+    <davidmorton>
+        <copy>
+            <intro>
+                <![CDATA[Guide, climber and professional photographer. 
+David Morton is a renaissance man in the world of high-alpine 
+climbing. He has ticked off Everest six times and has successfully
+guided clients up all seven of the Seven Summits.]]>
+            </intro>
+            <quote>
+                <![CDATA["The mountains bring passion, challenge, friendships, and
+relationships together,which as a whole really form the meaning of
+life.  Without challenge life has no weight to it and without
+relationships it has no soul."]]>
+            </quote>
+            <bio>
+                <![CDATA[David Morton is both a general badass and a natural guide, or so say the long list
+of clients who have followed his lead up each of the seven summits from Aconcagua to Everest.
+His decade of guiding with prestigious outfits such as Alpine Ascents International and Exum
+Mountain Guides has taken him to the tallest peaks of Boliva, Mongolia, Papua, the Alaska 
+Range and the Himalaya. In his spare time, he has worked extensively with the Climb for Cancer
+and the Khumbu Climbing School nonprofits as well as teaching himself the intricacies of 
+Nepalese politics and Nepalese history.
+
+Personally, David has reached the summit of Everest six times, peaked out on Ama Dablam and 
+made a summit attempt on K2 with Adam Knoff aimed at the Southwest Pillar Route. Morton is 
+also a pro photographer respected for capturing stunning imagery of the world's best climbers 
+on the world's biggest climbs. His 2011 focus is honed on climbing Makalu, the world's fifth 
+highest peak, with First Ascent guide Melissa Arnot.]]>
+            </bio>
+        </copy>
+        <achievement>
+            <size>90</size>
+            <x>195</x>
+            <y>170</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>6</label>
+            <detail>Number of times he has              climbed to the roof               of the world</detail>
+            <position>right</position>
+            <offsetX>10</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <achievement>
+            <size>140</size>
+            <x>425</x>
+            <y>100</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBulletThin</styleName>
+            <label>90</label>
+            <detail>Number of successful 		  summits of Everest his          teams achieved from             2004 to 2008</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <achievement>
+            <size>55</size>
+            <x>350</x>
+            <y>300</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>5</label>
+            <detail>Years as a board member              of the Climb for Cancer               2008</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <achievement>
+            <size>85</size>
+            <x>775</x>
+            <y>75</y>
+            <blur>0.01</blur>
+            <alpha>0.9</alpha>
+            <styleName>AchievementBullet</styleName>
+            <label>7</label>
+            <detail>Number of the Seven            Summits he has          successfully guided</detail>
+            <position>bottom</position>
+            <offsetX>10</offsetX>
+            <offsetY>-10</offsetY>
+        </achievement>
+        <images>
+            <name>flash/guides/dave_morton.swf</name>
+            <bio>flash/guides/davemorton_bio.jpg</bio>
+            <intro>flash/guides/davemorton_intro.jpg</intro>
+            <achievements>flash/guides/davemorton_achievements.jpg</achievements>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[David Morton one step, two breaths on K2]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[David and Adam Knoff actively rest on K2]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[David frames the shot in Nepal, Baruntse expedition]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[David taking a scenic shot with cover potential on K2]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[David and Adam lounge in the Himalayan Hostel on K2]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[David respecting Everest ritual with Lama Gesha]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[David celebrating number six on Everest with Melissa Arnot]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/davemorton_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/davemorton_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/davemorton_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/davemorton_photo_08_large.jpg</full>
+                <caption>
+                    <![CDATA[David building strength for Makalu on Mexican limestone]]>
+                </caption>
+            </photo>
+        </images>
+        <links></links>
+    </davidmorton>
+    <chriscoulter>
+        <copy>
+            <intro>
+                <![CDATA[A snowboarder willing to charge any line, Chris Coulter 
+has built a reputation with his aggressive style. By split, heli or sled, 
+his lines in ranges from the Wasatch to the Chugach have landed him covers, 
+parts and widespread respect.]]>
+            </intro>
+            <quote>
+            	<![CDATA["To be great in the mountains it's important to ride with people with a higher level of skill. It's also critical to know how to be a good safe leader for those who are less experienced."]]>
+            </quote>
+            <bio>
+                <![CDATA[Anyone who has seen Chris Coulter ride knows he charges whatever line sits in his path. For more than twenty winter seasons Coulter has destroyed everything from manmade booters and natural features to his annual film parts. A former Park City All-Star, he has appeared in ten snowboard films from Promo Copy to Futureproof as well as landing on the cover of Snowboarder Magazine in 2006. Along the way he has cultivated both a local Utah following and an international reputation for both his aggressive style and his filming missions to destinations from Chile and Argentina to Alaska and New Zealand.
+ 
+Part of the freestyle generation, Coulter discovered splitboarding in 2007 as a new tool to tap bigger backcountry lines. He has since pushed deeper into the Wasatch, started teaching for the Utah Avalanche Center and made the pilgrimage to Valdez, blending both mechanized and non-mechanized access. His brush with international celebrity hit when footage surfaced on the BBC of Coulter outriding an avalanche at Brighton, but the bigger news story is the burly first descent Coulter logged when we put him in a heli in Haines. He has spent the last four summers living the endless winter in Argentina.
+
+Check Coulter's <a href="http://blog.firstascent.com/2011/04/14/chris-coulter-and-kyle-miller-hit-the-water-and-powder-in-haines-ak/" target="_blank"><i>footage from Haines</i></a>.
+
+Read about Coulter and Caldwell's <a href="http://blog.firstascent.com/2011/03/30/chris-coulter-and-wyatt-caldwell-roadtrip-to-tailgate-alaska/" target="_blank"><i>roadtrip to Tailgate Alaska</i></a>.
+
+<a href="/assets/ocp/fa/guides/Coulter_pop_up.html" class="fb" rev="typeOptions:inline enableDragMove:true"><i>Watch Coulter outrunning a frightening slide at Brighton</i></a>.]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/chris_coulter.swf</name>
+            <bio>flash/guides/chriscoulter_bio.jpg</bio>
+            <intro>flash/guides/chriscoulter_intro.jpg</intro>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/chriscoulter_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/chriscoulter_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo>
+            <!-- <photo>
+                <thumb>flash/guides/chriscoulter_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/chriscoulter_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/chriscoulter_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/Chris_Coulter_Haines.swf</full>
+                <caption>
+                    <![CDATA[Chris Coulter]]>
+                </caption>
+            </photo> -->
+        </images>
+        <links></links>
+    </chriscoulter>
+    <kylemiller>
+        <copy>
+            <intro>
+                <![CDATA[An understated splitboard hero, 
+Kyle Miller's super-motivated missions tend toward long 
+slogs up remote Cascadian peaks, ending always with aesthetic 
+untracked lines and often with the quiet claim of first 
+snowboard descent.]]>
+            </intro>
+            <quote>
+            	<![CDATA["To me there is nothing more rewarding then looking up at a mountain you feared impossible a few days earlier and seeing your perfect tracks running down the entire slope."]]>
+            </quote>
+            <bio>
+                <![CDATA[In the mountain disciplines, athletes often shout about their accomplishments. But Kyle Miller is one of a rare breed, a pioneering splitboarder who has quietly ticked off an impressive list of ups and downs in his home Cascadian range. A longstanding local at Crystal Mountain, WA, Kyle's split mission first ramped up during the 2007 season when he summited then shredded the five tallest volcanoes in the American Cascades. 
+ 
+Kyle hit full stride the following season, becoming the first documented splitboard to tick off the entire top twenty-five list of Northwest volcanoes. After recovering from that exhaustive feat, Kyle set his sights higher and pushed deeper tackling a massive project to shred the ten North Cascadian subranges. In the process Kyle has raised the splitboard bar, laying down more than one hundred defining lines that speak for themselves.
+
+Check Kyle's profile in <a href="http://www.whereiskylemiller.com/?cat=108" target="_blank"><i>February's Backcountry Magazine</i></a>.
+
+Read about <a href="http://blog.firstascent.com/2011/04/11/kyle-miller-skis-the-black-hole-couloir-on-bandit-mountain-deep-in-the-ne-cascades/" target="_blank"><i>Kyle's Black Hole and Ulrich Couloirs descents</i></a>.
+
+Track the progress of <a href="http://www.whereiskylemiller.com/?cat=101" target="_blank"><i>Kyle's North Cascade Ranges project</i></a>.]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/kyle_miller.swf</name>
+            <bio>flash/guides/kylemiller_bio.jpg</bio>
+            <intro>flash/guides/kylemiller_intro.jpg</intro>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/kylemiller_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/kylemiller_photo_08_large.jpg</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo>
+            <!-- <photo>
+                <thumb>flash/guides/kylemiller_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/kylemiller_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/kylemiller_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/Kyle Miller_Freerider.flv</full>
+                <caption>
+                    <![CDATA[Kyle Miller]]>
+                </caption>
+            </photo> -->
+        </images>
+        <links></links>
+    </kylemiller>
+    <lexidupont>
+        <copy>
+            <intro>
+                <![CDATA[Big mountain charger, ski film star, 
+Freeskiing World Tour contender Lexi Dupont 
+is all of these elements wrapped into one. 
+She expertly balances the demands of being both 
+a college student at UC-Boulder and a professional 
+athlete with a bright future.]]>
+            </intro>
+            <quote>
+            	<![CDATA["I don't want to live my life watching time pass me by. I would much rather race down a mountain leaving my tracks for everyone to see and then look back up the slope seeing I held nothing back."]]>
+            </quote>
+            <bio>
+                <![CDATA[Girls who ski big lines with confidence are always in high demand and Lexi DuPont is no exception. This past winter she appeared in Warren Miller's Wintervention, graced the pages of Powder Magazine and reprised her 2010 trip to ski the fluted spines of Haines, Alaska by delivering a second stack of beautiful images from the last frontier. 
+ 
+This exposure is no surprise for a Sun Valley skier who raced gates through high school then placed in the top ten during her first two seasons on the Freeskiing World Tour including a 2009 podium finish in Telluride and an eighth place at the 2010 tour finals in Alyeska while still enrolled as student at UC-Boulder. Last off-season she completed a semester at sea and climbed Mt Kilimanjaro to fulfill a social mission, but we're not sure what ambitious objective is next on her radar. We just know it will be big.
+
+Read about <a href="http://www.lexidupont.com/blog/?p=120" target="_blank"><i>Lexi's off-season climb of Kilimanjaro</i></a>.
+
+Check Lexi's segment that earned a <a href="http://video.powderworld.com/node/40563" target="_blank"><i>Powder Video Award nomination</i></a>.
+
+Track Lexi's contest results on the <a href="http://www.freeskiingworldtour.com/profile.html?id=111" target="_blank"><i>Freeskiing World Tour</i></a>.]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/lexi_dupont.swf</name>
+            <bio>flash/guides/lexidupont_bio.jpg</bio>
+            <intro>flash/guides/lexidupont_intro.jpg</intro>
+            <photo>
+                <thumb>flash/guides/lexidupont_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lexidupont_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lexidupont_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lexidupont_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Lexi Dupont]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lexidupont_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lexidupont_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lexidupont_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lexidupont_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Lexi Dupont]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lexidupont_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lexidupont_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lexidupont_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lexidupont_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Lexi Dupont]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/lexidupont_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lexidupont_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lexidupont_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/lexidupont_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Lexi Dupont]]>
+                </caption>
+            </photo>
+            <!-- <photo>
+                <thumb>flash/guides/lexidupont_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/lexidupont_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/lexidupont_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/LexiduPontHAINES.flv</full>
+                <caption>
+                    <![CDATA[Lexi Dupont]]>
+                </caption>
+            </photo> -->
+        </images>
+        <links></links>
+    </lexidupont>
+    <wyattcaldwell>
+        <copy>
+            <intro>
+                <![CDATA[A free-reign shredder who applies his smooth, 
+technical style to any and all featured terrain, Wyatt Caldwell 
+sits at the vanguard of a new freestyle movement that is charged 
+to tap the true riding potential of the backcountry.]]>
+            </intro>
+            <quote>
+            	<![CDATA["The challenge of exploring the mountains in search of new steep slopes, with deep, dry powder will always be a passion of mine. The mountains and winters—that we are so thankful to have—are what have produced unforgettable experiences and created lasting friendships for me."]]>
+            </quote>
+            <bio>
+                <![CDATA[Snowboarders talk about progression, but evolution is a better way to describe the influential two-decade career of Wyatt Caldwell. From defining film footage, stunning images and street rail mastery to a resume stacked with a Grand Prix Halfpipe Championship, a Transworld Magazine cover and Vans Cup wins in multiple disciplines—Wyatt has made his mark on the international contest circuit and the national professional stage.
+                
+But as Wyatt's style has evolved, his focus has shifted from X Games and Dew Tour Slopestyle stops to the untracked terrain park of the backcountry. In this venue he has applied his free-reign style to long powder spines, huge pillow stacks and AK cliff lines with a clean, technical result. Now part of the YES movement, Wyatt has migrated from the Mammoth and Salt Lake scenes back home to Sun Valley and the surrounding ranges where he first learned to ride.
+
+Read Wyatt's guestbook interview in <a href="http://fresh.snowboardermag.com/feature/guestbook-wyatt-caldwell/" target="_blank"><i>Snowboarder Magazine</i></a>.
+
+<a href="http://blog.firstascent.com/2011/03/30/chris-coulter-and-wyatt-caldwell-roadtrip-to-tailgate-alaska/" target="_blank"><i>Recap Wyatt and Chris Coulter's epic roadtrip to Tailgate Alaska</i></a>.
+
+Watch Wyatt ride at <a href="/assets/ocp/fa/guides/Wyatt_pop_up.html" class="fb" rev="typeOptions:inline enableDragMove:true"><i>Tailgate Alaska</i></a>.]]>
+            </bio>
+        </copy>
+        <images>
+            <name>flash/guides/wyatt_caldwell.swf</name>
+            <bio>flash/guides/wyattcaldwell_bio.jpg</bio>
+            <intro>flash/guides/wyattcaldwell_intro.jpg</intro>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_01_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_01_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_01_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_01_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_02_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_02_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_02_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_02_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_03_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_03_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_03_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_03_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_04_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_04_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_04_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_04_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_05_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_05_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_05_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_05_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_06_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_06_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_06_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_06_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_07_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_07_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_07_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_07_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_08_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_08_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_08_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/wyattcaldwell_photo_08_large.jpg</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo>
+            <!-- <photo>
+                <thumb>flash/guides/wyattcaldwell_photo_09_thumb.jpg</thumb>
+                <thumbOver>flash/guides/wyattcaldwell_photo_09_thumb_rollover.jpg</thumbOver>
+                <thumbSelected>flash/guides/wyattcaldwell_photo_09_thumb_rollover.jpg</thumbSelected>
+                <full>flash/guides/Wyatt Caldwell_Haines.flv</full>
+                <caption>
+                    <![CDATA[Wyatt Caldwell]]>
+                </caption>
+            </photo> -->
+        </images>
+        <links></links>
+    </wyattcaldwell>
+</guides>

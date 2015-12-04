@@ -1,0 +1,1323 @@
+
+<script language="javascript" type="text/javascript">
+    jQuery(document).ready(function () {
+        $j("div.thumbgallery").thumbgallery();
+    });
+</script>
+
+<style type="text/css">
+* {padding:0;}
+body.EB #banner {
+    display: none !important;
+}
+html {
+}
+strong, em, b, i {
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;    
+}
+p {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 14px;
+    color: #333333;
+    font-weight:normal;
+    width: 715px;
+    line-height:20px;    
+}
+p span {
+    color: #d36d00;    
+}
+p a.perfectfit {
+    color: #0072cf;
+    text-decoration: none;
+    font-size: 14px;
+}
+p a:hover {
+    color: #0072cf;
+    text-decoration: underline !important;
+}
+ul.navTabs {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #333333;
+    text-transform: uppercase;
+    height:27px;
+    width: 996px;
+    margin:0;
+    border-bottom: solid 1px #666666;
+}
+ul.navTabs li {
+    list-style:none;
+    display:inline;
+    float:left;
+    border-left: solid 1px #666666;
+    border-top: solid 1px #666666;
+    height:26px;
+    background:#e5e5e5;
+}
+ul.navTabs li.selected {
+    background: #ffffff;
+    border-bottom: solid 1px #ffffff;    
+}
+ul.navTabs li.first {
+    border-left: solid 1px #666666;
+    border-top: solid 1px #666666;    
+}
+ul.navTabs li.last {
+    border-right: solid 1px #666666;
+    border-top: solid 1px #666666;    
+}
+
+.navTabs a {
+    padding: 5px 15px 0 15px;
+    display:inline-block;
+    color:#333333;
+    text-decoration:none;
+}
+
+.navTabs a.active {
+    background:#ffffff;
+    color:#333333;
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+}
+div.fittingroom div.item {
+    /*display:none;*/    
+}
+div#tab1 {
+    width:996px;
+    margin-top:36px;
+}
+div#tab2 {
+    width:996px;
+    height:632px;
+    margin-top:33px;
+}
+div#tab3 {
+    width:996px;
+    height:632px;
+    margin-top:34px;
+}
+div#tab4 {
+    width:996px;
+    margin-top:15px;
+    height:500px;
+}
+div#tab5 {
+    width:996px;
+    margin-top:36px;
+}
+div.contentWrapper {
+    width: 715px;
+    display:inline;
+    float:left;
+    padding: 0 0 20px 0;    
+}
+div.contentWrapper p {
+    margin: 25px 0 25px 0;    
+}
+div.relatedLinks {
+    width: 206px;
+    display:inline;
+    float:left;
+    margin: 93px 0 0 75px;
+    position:relative; 
+}
+div.relatedLinks ul.links {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: .85em;
+    color: #333333;
+    margin-bottom:34px;
+    margin-left:18px;
+}
+div.relatedLinks ul.links li {
+    list-style:none;
+}
+div.relatedLinks ul.links li a.related-link {
+    color: #0072cf;
+    text-decoration: none;
+}
+div.relatedLinks ul.links li a.related-link:hover {
+    color: #0072cf;
+    text-decoration: underline;
+}
+div.relatedLinks ul.links li.title {
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    margin-bottom:4px;
+}
+div.relatedLinks ul.links li.link {
+    color: #0072cf;
+    font-weight:normal;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+}
+div.guaranteeWrapper {
+    background-color: #ededed;
+    width: 206px;
+    height:234px;    
+}
+div.ourCreed {
+    background-color: #ededed;
+    width: 206px;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #333333;
+    line-height:18px;    
+}
+div.ourCreed div.creedTitle {
+    text-transform:uppercase;
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    padding-top:16px;
+    padding: 16px 0 0 16px;     
+}
+div.ourCreed p.creed-copy {
+    width: 178px;
+    font-size: 11px;
+    line-height:19px;
+    margin: 1px 0 0 0;
+    padding-left: 16px;    
+}
+div.ourGuarantee {
+    background-color: #ededed;
+    width: 206px;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #333333;
+    line-height:18px;    
+}
+div.ourGuarantee div.guaranteeTitle {
+    text-transform:uppercase;
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    padding: 16px 0 0 16px;     
+}
+div.ourGuarantee p.guarantee-copy {
+    width: 178px;
+    font-size: 11px;
+    line-height:19px;
+    margin: 1px 0 0 0;
+    padding-left: 16px;    
+}
+div.subTitle { 
+    font-family:Georgia;
+    font-size:18px;
+    font-weight:normal;
+    color: #333333;
+    margin-bottom: 0px;
+}
+div.title {
+    font-family:Georgia;
+    font-size:35px;
+    font-weight:normal;
+    color: #333333;
+    padding:0;
+    margin:0;
+    line-height:32px;
+}
+div.seperation {
+    background-image: url(/assets/ocp/content/fitting_room/women/fitguide/120806/hr_dot.gif);
+    background-repeat: no-repeat;
+    width: 996px;
+    height: 1px;
+    border: 0;
+    margin-top: 10px;    
+}
+div.watchVideo {
+    font-family:Georgia;
+    font-size:22px;
+    font-weight:normal;
+    color: #333333;
+    margin-top:30px;
+    margin-bottom:20px;
+    text-transform:uppercase;    
+}
+div.fitExpert {
+    font-family:Georgia;
+    font-size:22px;
+    font-weight:normal;
+    color: #333333;
+    margin-top:36px;
+    margin-bottom:14px;
+    text-transform:uppercase;    
+}
+p.q-and-a {
+    margin-bottom: 20px;    
+}
+p.q-and-a-last {
+    margin-bottom: 25px;    
+}
+div.fittingroom {
+    width: 996px;
+    position:relative;
+    margin: 0 auto;         
+}
+div.fittingroom .header {
+    width: 996px;
+    height: 76px;
+    margin-bottom: 40px;            
+}
+
+div.iframeWrapper {
+    display:inline;
+    float:left;
+}    
+div.frameWrapper {
+    position:relative;
+    width: 793px;
+    height:550px;    
+}
+div.tab2relatedLinks {
+    border-left: dashed 1px #d3d3d3;
+    width: 161px;
+    display:inline;
+    float:left;
+    margin: 0 0 0 40px;
+    position:relative;     
+}
+div.tab2relatedLinks ul.links {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: .85em;
+    color: #333333;
+    margin: -3px 0 421px 18px;
+}
+div.tab2relatedLinks ul.links li {
+    list-style:none;
+}
+div.tab2relatedLinks ul.links li a.related-link {
+    color: #0072cf;
+    text-decoration: none;
+}
+div.tab2relatedLinks ul.links li a.related-link:hover {
+    color: #0072cf;
+    text-decoration: underline;
+}
+div.tab2relatedLinks ul.links li.title {
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    margin-bottom:4px;
+}
+div.tab2relatedLinks ul.links li.link {
+    color: #0072cf;
+    font-weight:normal;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+}
+div.tab2-title {
+    font-family:Georgia;
+    font-size:24px;
+    font-weight:normal;
+    color: #333333;
+    margin-top:0px;
+    margin-bottom:33px;
+    text-transform:uppercase;        
+}
+.paginator {
+    display: none;    
+}
+#persistentMessage {display:none}
+
+#leftNav {
+    display: none;    
+}
+    
+div.clearChartNav {
+    clear: both;
+    height: 15px;
+    overflow: hidden;   
+    margin-top: -1px;   
+}
+ 
+ div.shopClothingFloat {
+    background-image: url("/assets/ocp/content/fitting_room/women/fitguide/120806/shop_womens_clothing.gif");
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    left: 226px;
+    position: absolute;
+    top: 32px;
+    width: 156px;
+    z-index: 9;   
+}
+div.shopWrapper {
+    width:800px;
+    height:25px;
+    float:left;
+    margin-left: 100px;
+    margin-bottom: 30px;    
+}
+div.petite {
+    width: 207px;
+    margin: 0 0 0 0;
+    display: inline;
+    float:left;
+    text-align: left;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 11px;
+    color: #0072cf;    
+}
+div.petite.middle {
+    width: 327px;     
+}
+div.petite a {
+    color: #0072cf !important;
+    text-decoration:none;     
+}
+div.petite a:hover {
+    color: #0072cf;
+    text-decoration:none;     
+ }
+    
+
+div.extendedSizes {
+    display:inline;
+    float:left;
+    width: 310px;
+    height: 560px;    
+}
+div.extendedTitle {
+    font-family:Georgia;
+    font-size:24px;
+    font-weight:normal;
+    color: #333333;
+    margin-top:0px;
+    margin-bottom:20px;
+    text-transform:uppercase;         
+}
+div.extendedSizes p {
+    margin-bottom:11px;    
+}
+div.extendedSizes p.petite-para {
+    margin-bottom:6px;    
+}
+div.extendedSizes p.tall-para {
+    margin-bottom:6px;
+    margin: 11px 0 6px 0;    
+}
+div.extendedSizes p span.bold {
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #333333;        
+}
+div.extendedSizes p span.normal {
+    font-weight:normal;
+    font:12px/21px Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #333333;        
+}
+div.extendedSizes p span.link a {
+    font-weight:normal;
+    font:12px/21px Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #0072cf;
+    text-decoration:none !important;        
+}
+div.extendedSizes ul.extended {
+    font-weight:normal;
+    font:12px/18px Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    color: #333333;
+    list-style-type: none;
+    width: 260px;       
+}
+div.extendedSizes ul.extended li {
+    font:12px/16px Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    background-image: url(/assets/ocp/content/fitting_room/women/fitguide/120806/mid-dot.gif);
+    background-repeat: no-repeat;
+    background-position: 0 .4em;
+    padding-left: .7em;
+}
+div.extendedSizes span.link {
+    margin-left:2px;    
+}
+div.extendedSizes span.link a {
+    font-weight:normal;
+    font:12px/21px Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 12px;
+    color: #0072cf;        
+}
+div.extendedSizes span.link a:hover {
+    text-decoration:underline !important;
+    color: #0072cf;        
+}
+div.plusSized {
+    display:inline;
+    float:left;
+    width: 529px;
+    height: 535px;    
+}
+div.plusTitle {
+    font-family:Georgia;
+    font-size:24px;
+    font-weight:normal;
+    color: #333333;
+    margin-top:0px;
+    margin-bottom:26px;
+    text-transform:uppercase;    
+}
+div.extendedLinks {
+    width:150px;
+    border-left: dashed 1px #d3d3d3;
+    display:inline;
+    float:left;
+    margin: 76px 0 0 2px;
+    position:relative;    
+}
+div.extendedLinks ul.links {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: .85em;
+    color: #333333;
+    margin: 0 0 0 35px;
+}
+div.extendedLinks ul.links li {
+    list-style-type:none;
+}
+div.extendedLinks ul.links li a.related-link {
+    color: #0072cf;
+    text-decoration: none;
+}
+div.extendedLinks ul.links li a.related-link:hover {
+    color: #0072cf;
+    text-decoration: underline;
+}
+div.extendedLinks ul.links li.title {
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    margin-bottom:4px;
+}
+div.extendedLinks ul.links li.link {
+    color: #0072cf;
+    font-weight:normal;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+}
+div.tab5relatedLinks {
+    border-left: dashed 1px #d3d3d3;
+    width: 161px;
+    display:inline;
+    float:left;
+    margin: 0 0 0 40px;
+    position:relative;     
+}
+div.tab5relatedLinks ul.links {
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: .85em;
+    color: #333333;
+    margin: -3px 0 421px 18px;
+}
+div.tab5relatedLinks ul.links li {
+    list-style:none;
+}
+div.tab5relatedLinks ul.links li a.related-link {
+    color: #0072cf;
+    text-decoration: none;
+}
+div.tab5relatedLinks ul.links li a.related-link:hover {
+    color: #0072cf;
+    text-decoration: underline;
+}
+div.tab5relatedLinks ul.links li.title {
+    font-weight:bold;
+    font-family:Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    margin-bottom:4px;
+}
+div.tab5relatedLinks ul.links li.link {
+    color: #0072cf;
+    font-weight:normal;
+    font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+    /*  START SIZE CHART TOP NAV FOR TAB4  */
+#diary .sizeModule {
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 979px;
+    float:left;
+    overflow:hidden;
+}
+#diary .sizeModule .tabs {
+    background-color: #FFFFFF;
+    border: medium none;
+    width: 979px;
+    height:500px;
+    margin: 10px 0 0 0;
+    float:left;
+    clear:both;
+}
+#diary .sizeModule ul.nav {
+    clear: both;
+    list-style-type: none;
+    margin: 0 -15px 0 0;
+    text-align: left;
+    font:1.0em/14px Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    color: #333333 !important;
+    width:560px !important;
+    float:right;
+}
+#diary .sizeModule ul.nav li {
+    display: inline;
+    float:left !important;
+    font:1.0em/14px Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    margin: 0;
+    padding: 0;
+}
+#diary .sizeModule ul.nav li.link {
+    display: inline !important;
+    float:left !important;
+    margin: 0;
+    padding: 0 9px !important;
+    width:auto;
+}
+#diary .sizeModule ul.nav li.left {
+    border-right:1px solid #adadad !important;
+    text-align:center !important;
+    display: inline !important;    
+}
+#diary .sizeModule ul.nav ul li.right {
+    border-left:1px solid #696969 !important;
+    text-align:center !important;
+    display: inline !important;    
+}
+#diary .sizeModule ul.nav li.title {
+    font-weight:bold;
+    white-space: nowrap;
+    font:1.0em/14px Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    color: #333333 !important;  
+    padding-right:3px;
+    padding: 0 9px !important;  
+}
+#diary .sizeModule ul.nav li.first,
+#diary .sizeModule ul.nav li:first-child {
+    border: 0;
+    padding-left: 0;
+}
+#diary .sizeModule ul.nav li.last,
+#diary .sizeModule ul.nav li:last-child {
+    padding-right: 0 !important;
+}
+#diary .sizeModule ul.nav li a {
+    font:1.0em/14px Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    color: #0072cf !important;
+    text-decoration:none;
+    line-height:14px;
+}
+#diary .sizeModule ul.nav li a:hover {
+    font:1.0em/14px Lucida Sans, Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif;
+    color: #0072cf;
+    text-decoration:underline !important;
+    line-height:14px;
+}
+.nav-on {
+    color: #333333;   
+}
+.ui-state-hover, .ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover, .ui-state-focus,
+.ui-widget-content .ui-state-focus, .ui-widget-header 
+.ui-state-focus {
+    outline:none !important; 
+    border: 0 none !important; 
+    background: transparent url(none) !important; 
+    font-weight: normal! important; 
+    color: #0072cf !important; 
+    outline:none !important;
+}
+
+#diary{background-image:none !important}
+#diary .content a {
+    border-bottom: none !important;
+    color: #0072cf;
+    cursor: pointer !important;
+    font-size: 1.0em;
+    text-decoration: none;
+}
+#diary .content a:hover {
+    text-decoration: underline !important;
+}
+#diary .sizeModule .content img {
+    float: left;
+    display:inline;
+}
+#diary .sizeModule .content img.howto {
+    margin-left: 8px !important;
+}
+
+/* panel */
+#diary .sizeModule{
+    position: relative;
+    height: 21px;
+    width: 979px;
+    float:left;
+    padding: 0;
+    margin: 0;
+}
+#diary .ui-widget-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 0 none !important;
+    color: #333333;
+}
+#diary .ui-tabs .ui-tabs-panel {
+    background: none repeat scroll 0 0 transparent;
+    border-width: 0;
+    display: block;
+    padding: 0 !important;
+    height:462px;
+}
+#diary .sizeModule .tabs{
+    background-color: #FFFFFF;
+    border:none;
+    width:956px;
+    height:500px;
+}
+#diary .sizeModule  .ui-tabs .ui-tabs-panel {
+    background: none repeat scroll 0 0 transparent;
+    border: 1px solid #666666 !important;
+    display: block;
+    overflow: hidden;
+    padding: 15px;
+    display:block;
+    clear:both;
+    height:462px;
+}
+#diary .sizeModule .panel.selected {   
+    display:block;
+}
+
+#diary .sizeModule .ui-widget-header {
+    background: none;
+    border: none;
+    color: #fff;
+    font-weight: normal;
+}
+#diary .sizeModule .closeButton {
+    border:none;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+    z-index: 999;
+}
+
+#diary .sizeModule .ui-tabs .ui-tabs-nav li a {
+    color: #0072cf;
+    font-weight: bold;
+    font-size: 1.0em;
+    float: left;
+    padding: 2px 8px;
+    text-decoration: none;
+}
+#diary .sizeModule .ui-tabs-nav li.ui-tabs-selected a {
+    color: #333333 !important;
+    text-decoration:none !important;
+}
+#diary .sizeModule .ui-tabs-nav li.ui-tabs-selected a:hover {
+    color: #333333 !important;
+    text-decoration:none !important;
+}
+#diary .sizeModule .ui-widget-header {
+    background: none repeat scroll 0 0 transparent !important;
+    border-color: -moz-use-text-color -moz-use-text-color #AAAAAA !important;
+    border-style: none none solid !important;
+    border-width: 0;
+    color: #333333;
+    font-weight: bold;
+}
+#diary .ui-tabs .ui-tabs-nav li {
+    border-bottom: 0 none !important;
+    position: relative;
+    white-space: nowrap;
+    margin:0;
+    top:0 !important;
+}
+#diary .sizeModule .ui-tabs-nav li.ui-tabs-selected {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: transparent !important;
+    border-style: none !important;
+    border-width: 0 !important;
+    float: left;
+    font-size: 1.0em;
+    color: #333333 !important;
+    font-weight: bold;
+    list-style: none outside none;
+    margin-right: 0 !important;
+    padding-top: 0 !important;
+    outline: none;
+    position: relative;
+    top: 0 !important;
+}
+#diary .sizeModule .ui-tabs-nav li.ui-tabs-selected.ui-state-hover {
+    font-size: 1.0em;
+    color: #333333 !important;
+    font-weight: bold;
+    text-decoration: none;    
+}
+#diary .sizeModule .ui-tabs-nav li.ui-state-default {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent !important;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-color: transparent !important;
+    border-style: none !important;
+    border-width: 0 !important;
+    float: left;
+    font-size: 1.0em;
+    font-weight: bold;
+    list-style: none outside none;
+    margin-right:0 !important;
+    outline: none;
+    padding-top:0 !important;
+    position: relative;
+    top: 0 !important;
+}
+#diary .sizeModule .ui-tabs-nav li.ui-state-default {
+    font-size: 1.0em !important;
+    font-weight: bold !important;        
+}
+#diary a {
+    color: #0072cf;
+    cursor: pointer;
+    font-size: 1.0em;
+    text-decoration: none !important;
+}
+#diary .ui-tabs .ui-tabs-nav li a {
+    float: left;
+    padding: 0 !important;
+    text-decoration: none;
+}
+#diary .sizeModule .ui-corner-all, #diary .sizeModule .ui-corner-top, #diary .sizeModule .ui-corner-left, #diary .sizeModule .ui-corner-tl {
+    border-top-left-radius: 0;
+}
+#diary .sizeModule .ui-corner-all, #diary .sizeModule .ui-corner-top, #diary .sizeModule .ui-corner-right, #diary .sizeModule .ui-corner-tr {
+    border-top-right-radius: 0;
+}
+#diary .sizeModule .ui-tabs .ui-tabs-nav li.ui-tabs-selected {
+    margin-bottom: 0;
+    padding-bottom: 1px;
+}
+#diary .sizeModule .ui-state-default, .sizeModule .ui-widget-content .ui-state-default, .sizeModule .ui-widget-header .ui-state-default {    
+    font-weight: normal;
+    background-color: #ffffff !important;
+    border: 0 none;
+}
+
+#diary .sizeModule .moreinfo {
+    clear:both;
+    display:block;
+    margin-top:10px;
+}
+#diary .ui-widget-content {   
+    border: none !important;   
+}
+#diary .sizeModule .ui-button-text-only .ui-button-text {
+    padding: 0;
+}
+#diary .sizeModule .tabs div#tabs-4 div.content img#swim {
+    height:400px;
+    margin-bottom:30px;    
+}
+body.EB .buttonActive, body.EB .button {
+    background-color: transparent;
+}
+#sizeChartCloseButton {
+ width: 13px\9 !important;    
+}
+.right {text-align:center;}
+.left {text-align:center;}
+#diary .ui-tabs .ui-tabs-nav {
+    margin: 0;
+    padding: 0 !important;
+}
+
+</style>
+<script type="text/javascript" language="javascript">
+    jQuery(document).ready(function () {
+        jQuery('ul.navTabs').each(function () {
+            var $active, $content, $links = jQuery(this).find('a'), $activeListElement, $t;
+
+            $links.not(':first').each(function () {
+                jQuery('div.item').removeClass('selected').css({ display: "none" });
+            });
+
+            $activeListElement = jQuery('ul.navTabs li.first').addClass('selected');
+            $t = $links.first().addClass('active');
+            $active = jQuery($t.filter(".active").attr("href"));
+            $content = jQuery($t.filter(".active").attr("rel"));
+            var $v = $content.find('var');
+            if ($v.length) {
+                var url = jQuery.trim($v.text());
+                $content.load(url, function (res, sta, xhr) {
+                    if (sta == "error")
+                        $content.text("Error loading slide content: " + xhr.status + " " + xhr.statusText);
+                });
+            }
+            $active.addClass('selected').css({ display: 'block' });
+
+
+            $links.live('click', 'a', function (i) {
+                $activeListElement.removeClass('selected');
+                $t.removeClass('active');
+                var s = $active.filter('.selected');
+                var j = $links.filter('.active');
+                var e = jQuery(this);
+                if (e.hasClass('active'))
+                    return;
+                j.removeClass('active');
+                e.addClass('active');
+                s.removeClass('selected').css({ display: 'none' });
+                $active = jQuery(e.filter(".active").attr("href"));
+                $content = jQuery(e.filter(".active").attr("rel"));
+                var $v = $content.find('var');
+                if ($v.length) {
+                    var url = jQuery.trim($v.text());
+                    if (url.substring(0, 3) != "swf") {
+                        $content.load(url, function (res, sta, xhr) {
+                            if (sta == "error")
+                                $content.text("Error loading slide content: " + xhr.status + " " + xhr.statusText);
+                        });
+                    }
+                }
+                $active.addClass('selected').css({ display: 'block' });
+
+                $activeListElement = jQuery(this).parent();
+                $activeListElement.addClass('selected');
+
+                i.preventDefault();
+            });
+        });
+    });
+</script>
+<div class="fittingroom">
+    <div class="header">
+        <img id="women_fitguide" class="hero" src="/assets/ocp/content/fitting_room/women/fitguide/120806/header_fitguide_women.gif"
+            width="996" height="76" border="0" alt="Women's Fit Guide" title="Women's Fit Guide" />
+    </div>
+    <ul class='navTabs' id="navTabs">
+        <li class="first"><a href='#tab1' rel="#tab1">What's New</a></li>
+        <li class="second"><a href='#tab2' rel="#tab2">Jeans Fit Guide</a></li>
+        <li class="third"><a href='#tab3' rel="#tab3">Pants Fit Guide</a></li>
+        <li class="four"><a href='#tab4' rel="#tab4">Size Chart</a></li>
+        <li class="last"><a href='#tab5' rel="#tab5">Extended Sizes</a></li>
+    </ul>
+    <div id='tab1' class="item">
+        <var>/assets/ocp/content/fitting_room/women/fitguide/120806/tab1.html</var>  
+    </div>
+    <div id='tab2' class="item">
+        <div class="tab2-title">Women's Jeans Fit Guide</div>
+        <div class="iframeWrapper">
+            <div style="text-align:center; display:block;" class="frameWrapper">
+                <iframe name="Frame1" id="Frame1" src="/assets/ocp/content/fitting_room/women/fitguide/120806/fittool.html" width="793" height="550" class="fittool" scrolling="no" frameborder="0"></iframe>
+            </div>
+        </div>
+        <div class="tab2relatedLinks">
+            <ul class="links">
+                <li class="title">Related Links</li>
+                <li class="link"><a href="/EB/Women/Jeans/index.cat" target="_parent" title="Shop Women's Jeans" name="Submessage_Button_Category_Women's_Jeans"
+                    class="related-link">Women's Jeans</a></li>
+                <li class="link"><a href="/EB/Women/index.cat" target="_parent" title="Shop Women's" name="Submessage_Button_Category_Women's"
+                    class="related-link">All Women's Clothing</a></li>
+                <li class="link"><a href="/EB/Women/Petite-2-18/index.cat" target="_parent" title="Shop Women's Petite Shop"
+                    name="Submessage_Button_Category_Women's_Petite" class="related-link">Women's Petite
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Women/Tall-4-20/index.cat" target="_parent" title="Shop Women's Tall Shop"
+                    name="Submessage_Button_Category_Women's_Tall" class="related-link">Women's Tall
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Women/Womens--Plus-sizes-16W-26W/index.cat" target="_parent" title="Shop Women's Plus Shop"
+                    name="Submessage_Button_Category_Women's_Plus" class="related-link">Women's Plus
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Men/Mens-Fit-Guide/index.cat" target="_parent" title="Shop Men's Fit Guide"
+                    name="Submessage_Button_Category_Men's_Fit_Guide" class="related-link">Men's Fit
+                    Guide</a></li>
+            </ul>
+        </div>                 
+    </div>
+    <div id='tab3' class="item">
+        <div class="tab2-title">Women's Pants Fit Guide</div>
+        <div class="iframeWrapper">
+            <div style="text-align:center; display:block;" class="frameWrapper">
+                <iframe name="Frame2" id="Frame2" src="/assets/ocp/content/fitting_room/women/fitguide/120806/panttool.html" width="793" height="550" class="panttool" scrolling="no" frameborder="0"></iframe>
+            </div>
+        </div>
+        <div class="tab5relatedLinks">
+            <ul class="links">
+                <li class="title">Related Links</li>
+                <li class="link"><a href="/EB/Women/Pants-Capris--Shorts/index.cat" target="_parent" title="Shop Women's Pants"
+                    name="Submessage_Button_Category_Women's_Pants" class="related-link">Women's Pants</a></li>
+                <li class="link"><a href="/EB/Women/index.cat" target="_parent" title="Shop Women's" name="Submessage_Button_Category_Women's"
+                    class="related-link">All Women's Clothing</a></li>
+                <li class="link"><a href="/EB/Women/Petite-2-18/index.cat" target="_parent" title="Shop Women's Petite Shop"
+                    name="Submessage_Button_Category_Women's_Petite" class="related-link">Women's Petite
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Women/Tall-4-20/index.cat" target="_parent" title="Shop Women's Tall Shop"
+                    name="Submessage_Button_Category_Women's_Tall" class="related-link">Women's Tall
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Women/Womens--Plus-sizes-16W-26W/index.cat" target="_parent" title="Shop Women's Plus Shop"
+                    name="Submessage_Button_Category_Women's_Plus" class="related-link">Women's Plus
+                    Shop</a></li>
+                <li class="link"><a href="/EB/Men/Mens-Fit-Guide/index.cat" target="_parent" title="Shop Men's Fit Guide"
+                    name="Submessage_Button_Category_Men's_Fit_Guide" class="related-link">Men's Fit
+                    Guide</a></li>
+            </ul>
+        </div>            
+    </div>
+    <div id='tab4' class="item">
+        <var>/assets/ocp/content/fitting_room/women/fitguide/120806/tab4.html</var>               
+    </div>
+    <div id='tab5' class="item">
+        <var>/assets/ocp/content/fitting_room/women/fitguide/120806/tab5.html</var>        
+    </div>
+</div>
+<style type="text/css">
+    a.detail.fittool {
+        position:absolute;
+        width:133px;
+        height:24px;
+        top:658px;
+        left:595px;
+        cursor:pointer;
+        z-index: 5;    
+    }
+    a.dossier.fittool {
+        position:absolute;
+        width:133px;
+        height:24px;
+        top:614px;
+        left:606px;
+        cursor:pointer;
+        z-index: 5;    
+    }
+    a.detail.panttool {
+        position:absolute;
+        width:133px;
+        height:24px;
+        top:658px;
+        left:595px;
+        cursor:pointer;
+        z-index: 5;    
+    }
+    a.dossier.panttool {
+        position:absolute;
+        width:133px;
+        height:24px;
+        top:614px;
+        left:606px;
+        cursor:pointer;
+        z-index: 5;    
+    }
+    .closeX {
+    background-image: url("/assets/ocp/content/skin/sprites/120626/close_x_btn.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    left: 952px;
+    position: absolute;
+    top: -12px;
+    width: 29px;
+    z-index: 999;
+}
+</style>
+<a href="javascript:sizeChartDetails('11', 'EB')" class="dossier fittool" style="height:34px;width:133px; display:block">
+    <img src="/assets/ocp/content/fitting_room/men/fitguide/120806/shim.gif" width="133"
+        height="34" alt="" /></a>
+<a href="javascript:sizeChartDetails('11', 'EB')" class="detail fittool" style="height:34px;width:133px; display:block">
+    <img src="/assets/ocp/content/fitting_room/men/fitguide/120806/shim.gif" width="133"
+        height="34" alt="" /></a>
+<a href="javascript:sizeChartDetails('11', 'EB')" class="dossier panttool" style="height:34px;width:133px; display:block">
+    <img src="/assets/ocp/content/fitting_room/men/fitguide/120806/shim.gif" width="133"
+        height="34" alt="" /></a>
+<a href="javascript:sizeChartDetails('11', 'EB')" class="detail panttool" style="height:34px;width:133px; display:block">
+    <img src="/assets/ocp/content/fitting_room/men/fitguide/120806/shim.gif" width="133"
+        height="34" alt="" /></a>
+<div style="display: none;">
+    <div id="dossier">
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        //try {
+        jQuery("iframe[id=Frame1]").load(function () {
+            var currentURL = jQuery("iframe[id=Frame1]").contents().get(0).location.href;
+            if (currentURL.indexOf("detailFitGuide") != -1) {
+                jQuery('.detail').css({ display: 'block', top: "658px" });
+                jQuery('.dossier').css({ display: 'none' });
+            } else if (currentURL.indexOf("fittool") != -1) {
+                jQuery('.dossier').css({ display: 'block', top: "614px" });
+                jQuery('.detail').css({ display: 'none' });
+            }
+        });
+        jQuery("iframe[id=Frame2]").load(function () {
+            var currentURL = jQuery("iframe[id=Frame2]").contents().get(0).location.href;
+            if (currentURL.indexOf("pantFitGuide") != -1) {
+                jQuery('.detail').css({ display: 'block', top: '664px' });
+                jQuery('.dossier').css({ display: 'none' });
+            } else if (currentURL.indexOf("panttool") != -1) {
+                jQuery('.dossier').css({ display: 'block', top: '614px' });
+                jQuery('.detail').css({ display: 'none' });
+            }
+        });
+        //} catch (e) { }
+
+        var decodeQuerystring = function (evt) {
+            var j;
+            var pairs = window.location.search.substring(1).split('&');
+            var browserName = navigator.userAgent;
+            var isIE = (browserName.indexOf("MSIE") != -1);
+            if (isIE) {
+                for (j = 0; j < pairs.length; j++) {
+                    if (pairs[j] === "") continue;
+                    pair = pairs[j].split("=");
+                    if (pair[0] == "tab") {
+                        var currentSelectedTab = decodeURIComponent(pair[1]);
+                    }
+                }
+            } else {
+                for (j in pairs) {
+                    if (pairs[j] === "") continue;
+                    pair = pairs[j].split("=");
+                    if (pair[0] == "tab") {
+                        var currentSelectedTab = decodeURIComponent(pair[1]);
+                    }
+                }
+            }
+            return currentSelectedTab;
+        };
+        var browserName = navigator.userAgent;
+        var thisSelectedTab = decodeQuerystring();
+        var isIE = (browserName.indexOf("MSIE") != -1);
+        if (!isIE) {
+            var thisSelectedTab = decodeQuerystring();
+            if (thisSelectedTab) {
+                var e = document.createEvent('MouseEvents');
+                e.initEvent('click', true, true);
+                jQuery('ul.navTabs li.' + thisSelectedTab + ' a').each(function () { this.dispatchEvent(e); });
+            }
+        }
+        if (isIE) {
+            jQuery('ul.navTabs li.' + thisSelectedTab + ' a').trigger("click", function () {
+                return false;
+            });
+        }
+    });
+
+    sizeChartDetails = function (sectionId, SiteCode) {
+        if (sectionId != "" && SiteCode != "") {
+            var departId = "" + sectionId;
+            var sizeChartFlag = false;
+            var sections = "";
+            var siteFlag = "eb";
+            var sizeChartUrl = "/assets/html/sizecharts/";
+
+            if (jQuery("body").hasClass("EB") && jQuery(targetPage).hasClass("EB")) {
+                siteFlag = "eb";
+            }
+            else if (jQuery("body").hasClass("FA") && jQuery(targetPage).hasClass("FA")) {
+                siteFlag = "fa";
+            }
+            else if (jQuery("body").hasClass("EB") && jQuery(targetPage).hasClass("FA")) {
+                siteFlag = "fa";
+            }
+            else {
+                siteFlag = "eb";
+            }
+
+            if (departId != "") {
+                //tab 1 womens clothing
+                if (departId == "6" || departId == "8" || departId == "9" || departId == "06" || departId == "08" || departId == "09" || departId == "10" || departId == "11" || departId == "17" || departId == "31" || departId == "45") {
+
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "women." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 2 womens accessories
+                if (departId == "16") {
+                    sections = "1";
+                    selectedSizeChartTab = 1;
+                    sizeChartName = "women." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 3 womens footwear
+                if (departId == "20") {
+                    sections = "1";
+                    selectedSizeChartTab = 2;
+                    sizeChartName = "women." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 mens clothing
+                if (departId == "1" || departId == "4" || departId == "01" || departId == "04" || departId == "3" || departId == "03" || departId == "15" || departId == "29" || departId == "33" || departId == "34" || departId == "38") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "men." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 2 mens accessories
+                if (departId == "14") {
+                    sections = "1";
+                    selectedSizeChartTab = 1;
+                    sizeChartName = "men." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 3 mens footwear
+                if (departId == "19") {
+                    sections = "1";
+                    selectedSizeChartTab = 2;
+                    sizeChartName = "men." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 4 mens pant hem styles
+                if (departId == "103") {
+                    sections = "1";
+                    selectedSizeChartTab = 1;
+                    sizeChartName = "men." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 FA Mens clothing
+                if (departId == "88") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "technical." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 2 FA Womens clothing
+                if (departId == "89") {
+                    sections = "1";
+                    selectedSizeChartTab = 1;
+                    sizeChartName = "technical." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 3 FA accessories
+                if (departId == "41") {
+                    sections = "1";
+                    selectedSizeChartTab = 2;
+                    sizeChartName = "technical." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 Baby clothing
+                if (departId == "4000") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "kids." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 2 Boys clothing
+                if (departId == "4001" || departId == "87") {
+                    sections = "1";
+                    selectedSizeChartTab = 1;
+                    sizeChartName = "kids." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+                //tab 3 Girls clothing
+                if (departId == "4002") {
+                    sections = "1";
+                    selectedSizeChartTab = 2;
+                    sizeChartName = "kids." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 swim miracle suits
+                if (departId == "3412") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "swim_miraclesuit." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 swim athena suits
+                if (departId == "3415") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "swim." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+                //tab 1 swim miracle suits
+                if (departId == "12") {
+                    sections = "1";
+                    selectedSizeChartTab = 0;
+                    sizeChartName = "swim." + siteFlag + ".html";
+                    sizeChartUrl = sizeChartUrl + sizeChartName;
+                    sizeChartFlag = true;
+                }
+
+            }
+
+        }
+
+        if (sizeChartFlag) {
+            var pdpURL = rewirteUrl(sizeChartUrl);
+            fb.start(pdpURL, 'type:ajax height:600 width:996 doAnimations:false autoFitHTML:true scrolling:no showOuterClose:true boxLeft:10% controlsPos:tr afterItemStart:updateTabs(' 
+                + selectedSizeChartTab + ')');
+        } else {
+            alert("We're sorry but this product doesn't have a size chart!");
+        }
+
+    }
+
+    function getTab() {
+        var browserName = navigator.userAgent;
+        var isIE = (browserName.indexOf("MSIE") != -1);
+        if (isIE) {
+            jQuery('ul.navTabs li.second a').trigger("click", function () {
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+                return false;
+            });
+        } else {
+            var e = document.createEvent('MouseEvents');
+            e.initMouseEvent('click', true, true,
+                window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+            jQuery('ul.navTabs li.second a').each(function () {
+                this.dispatchEvent(e);
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+                return false;
+            });
+        }
+        if (navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefox') > 0) {
+            jQuery('ul.navTabs li.second a').trigger("click", function () {
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+                return false;
+            });
+        }
+    }
+    function getSizeChart() {
+        var browserName = navigator.userAgent;
+        var isIE = (browserName.indexOf("MSIE") != -1);
+        if (isIE) {
+            jQuery('ul.navTabs li.four a').trigger("click", function () {
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+                return false;
+            });
+        } else {
+            var e = document.createEvent('MouseEvents');
+            e.initEvent('click', true, true);
+            jQuery('ul.navTabs li.four a').each(function () {
+                this.dispatchEvent(e);
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+            });
+        }
+        if (navigator.userAgent.indexOf('Mac') > 0 && navigator.userAgent.indexOf('Firefox') > 0) {
+            jQuery('ul.navTabs li.four a').trigger("click", function () {
+                jQuery("html, body").animate({ scrollTop: 0 }, "fast");
+                return false;
+            });
+        }
+    }
+</script>

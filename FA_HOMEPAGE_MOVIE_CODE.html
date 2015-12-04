@@ -1,0 +1,392 @@
+<script language="javascript" type="text/javascript">
+
+    jQuery(document).ready(function () {
+
+        jQuery.fn.openYouTubeVideos();
+
+        var timestamp = Math.round((new Date()).getTime() / 1000);
+
+        jQuery('head').append('<script type="text/javascript" src="/assets/ocp/content/first_ascent/homepage/seed.js?ts=' + timestamp + '">');
+        var video = jQuery("#video");
+        var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+        if (isIE) {
+            setTimeout(function () { video.youtubegallery() }, 3000);
+        } else {
+            video.youtubegallery();
+        }
+
+    });
+        
+</script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+<style type="text/css">
+body.EB #new_rail {display: block !important;}
+body.FIRST-ASCENT {background: url("/assets/ocp/content/skin/sprites/120301/fa_bkground_repeater.jpg") repeat-x  center top #000000;}
+body.FIRST-ASCENT #site{padding:0; margin:0; background:url("/assets/ocp/content/skin/sprites/120904/fa_bkgd_waddington.jpg") no-repeat center top; width:100%; display:block}
+body.EB .buttonActive, body.EB .button {background-color: transparent !important;}
+#billboard_wrapper{display:none}
+#main_content{width:996px; height:1935px; // margin:0 auto; background-color:#FFF}
+#content_0019{width:996px; margin:0 auto}
+#submessage_content{width:996px; margin:0 auto; padding-bottom:15px; margin-top:15px}
+/*.slideshow a.paddle-right{top:246px !important; right:0px !important; width:31px !important; height:62px !important; background:url(/assets/ocp/content/skin/120103/right_arrow.png) no-repeat scroll 0 0 transparent !important}
+.slideshow a.paddle-left{top:246px !important; width:31px !important; height:62px !important; background:url(/assets/ocp/content/skin/120103/left_arrow.png) no-repeat scroll 0 0 transparent !important}*/
+.slideshow{height:500px !important; width:792px !important; float:right !important; margin:0 !important}
+/*div.controls{position:absolute; top:20px; z-index:3}*/
+div.slideshow div.controls a {display:none}
+div.slideshow div.controls a.selected {display:none}
+#hp_leftnav{width:183px; font-family:"arial"; color:#FFF; float:left; height:1935px !important; background-color:#000; background:#000 url(/assets/ocp/content/skin/sprites/120904/FA_LeftNav_col_waddington.jpg) no-repeat scroll 0 -198px; *background:#000 url(/assets/ocp/content/skin/sprites/111003/fa_LeftNav_col_large.jpg) no-repeat 0 -218px !important; background:#000 url(/assets/ocp/content/skin/sprites/111003/fa_LeftNav_col_large.jpg) no-repeat 0 -198px\0/ !important}
+#hp_leftnav a{text-decoration:none}
+#hp_leftnav a:hover{text-decoration:underline; color:#39F}
+#hp_leftnav a.weekly_special{font-weight:bold; font-size:13px; color:#E47100; text-transform:uppercase; margin-top:-10px}
+#hp_leftnav_top{padding-left:10px; padding-right:10px}
+#hp_leftnav_middle{padding-bottom:21px; padding-left:10px; padding-right:10px}
+#hp_leftnav_bottom{padding-bottom:10px; padding-left:10px; padding-right:10px}
+#hp_leftnav_right_margin{width:21px; float:left}
+.hp_leftnav_spacer{height:10px; width:183px}
+#content_0019 td{vertical-align:top}
+#hp_top{padding-bottom:0px}
+#hp_middle{height:225px; width:960px}
+#hp_middle img{display:block; float:left}
+#hp_middle .c1{margin-right:19px}
+#hp_middle .c2{margin-right:18px}
+#hp_middle .c3{margin-right:19px}
+#hp_middle .c4{}
+#hp_bottom{height:328px; width:960px}
+.topPicsHeader{position:relative; top:41px; *top:51px; z-index:1}
+.ui-widget-content{border:none}
+.fa_subhead, .fa_subhead a{font-family:Arial; font-size:12px; color:#FFF; font-weight:bold; border-bottom:1px solid #999; margin-bottom:3px}
+.fa_subhead_nav{font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#FFF; font-weight:normal}
+.jcarousel-skin-firstascent .jcarousel-prev-horizontal{background:url("/assets/ocp/fa/homepage/110613/paddle_left.gif") no-repeat scroll center center #666; cursor:pointer; height:155px; left:0; margin-left:20px; position:absolute; top:0; width:20px; z-index:2}
+.jcarousel-skin-firstascent .jcarousel-next-horizontal{background:url("/assets/ocp/fa/homepage/110613/paddle_right.gif") no-repeat scroll center center #666;  cursor:pointer;  height:155px;  margin-right:20px;  position:absolute;  right:0;  top:0;  width:20px;  z-index:2}
+#rssContent{ display:none}
+#rssFeed{ margin-right:20px}
+#rssFeed span#rssFeed_title, div#rssFeed span#rssFeed_description{ display:none}
+#rssFeed ul#rssEntries span.rssEntry_publishedDate{ margin-left:9px}
+#rssFeed div#rssThumbnail{ width:150px;  height:90px;  overflow:hidden}
+#blog #rssEntries{ font-family:Verdana;  font-size:9px;  color:#333;  line-height:13px}
+#blog div#rssFeed ul#rssEntries li#rssEntry1{ margin-top:3px}
+#blog div#rssFeed ul#rssEntries li#rssEntry2{}
+#rssFeed #rssEntry1, #rssEntry2, #rssEntry3{height:auto; margin-bottom:29px; float:left; width:328px; position:relative}
+#rssFeed #rssEntry2, #rssEntry3{}
+#rssFeed div#rssThumbnail{float:left; height:89px; overflow:hidden; width:150px; margin-bottom:5px; position:relative}
+#rssFeed .rssEntry_title{font-weight:bold; clear:both;  display:block;  font-weight:bold;  margin-bottom:5px;  width:312px;  
+    float:left;  position:relative;}
+#rssFeed .rssEntry_title a {font-weight:bold; color:#333; width:312px; font-family:Verdana; font-size:9px; text-transform:uppercase;}
+#rssFeed .rssEntry_description {display:inline-block; position:relative; width:167px; vertical-align:top; color:#333; left:9px; line-height:13px;}
+/*#rssFeed .rssEntry_description p {color: #777777;font-size: 11px;line-height: 15px;}*/
+/*#blog div#rssFeed ul#rssEntries li#rssEntry2 dd{margin-top:11px}*/
+#rssFeed #rssEntries dd{position:absolute; /*height:-13px; top:99px*/}
+#rssFeed dd {margin-top:6px;height:9px;width:66px;*margin-left:9px;}
+*:first-child+html .homepage div#rssFeed dd{float:left; clear:none; margin-left:5px; margin-top:2px; display:block}
+#rssFeed .button{background-image:url(/assets/ocp/content/skin/rssfeed/btn_read_more_dark.gif) !important;  background-repeat:no-repeat;  width:66px !important;  height:9px;  margin:0 !important;  border:0px solid #FFF;  cursor:pointer}
+#rssFeed .ui-corner-all{ -moz-border-radius:0px 0px 0px 0px}
+#rssFeed input.button{ border:none !important}
+div#video{ height:450px;  font-size:10px !important}
+div#video{ overflow:visible;  margin-top:5px;  margin-left:10px;  margin-bottom:47px;  *margin-bottom:0px}
+div#video img{ display:block}
+div#video span.title{ display:block;font-size:9px;font-weight:normal;}
+#video ul{ list-style-type:none;  margin:0 !important}
+#video li{ float:left;  margin-right:15px}
+#video a{ display:block;  width:120px}
+#video #myytplayer {z-index:9999;}
+.jcarousel-skin-thumbs .jcarousel-container-horizontal {width:420px !important;}
+.jcarousel-skin-thumbs .jcarousel-item .title {margin-top:2px}
+#video div.jcarousel-skin-thumbs{ margin-top:-8px;margin-left:0px;}
+.subfirst, .submiddle{width:252px; padding-top:15px; padding-right:18px}
+.sublast{width:252px; padding-top:15px}
+#rssFeed ul#rssEntries li br{ clear:right}
+#blog_container{width:325px; float:left}
+#blog{width:325px; margin-left:20px; float:left;margin-top:10px;}
+#blog_header{width:312px; padding-left:20px; padding-top:23px; padding-bottom:10px; float:left}
+#blog_footer{width:325px; margin-left:20px; float:left}
+
+.rssEntry_publishedDate {color:#555;font-weight:bold;}
+#rssReadMore0 {/*left: -253px;position: absolute;top: -29px;*/margin-top:4px;}
+#rssReadMore1 {/*left: -253px;position: absolute;top: -31px;*/margin-top:5px;}
+#rssReadMore2 {/*left: -253px;position: absolute;top: -31px;*/margin-top:6px;}
+#blog_header hr{margin:0 !important}
+.fa_rule_top{border-bottom:1px solid #CCC; width:312px; margin-bottom:10px; float:left}
+.fa_rule_top_video{border-bottom:1px solid #CCC; width:440px; margin-bottom:17px; float:left}
+.fa_rule_bottom{border-bottom:1px solid #999; width:312px; float:left; padding-top:17px; margin:0 0 4px 0;*margin-top:28px;}
+.fa_rule_bottom_video{border-bottom:1px solid #999; width:440px; float:left; margin:0 0 4px 0;}
+.fa_header_img{float:left; margin-bottom:6px}
+.team_rollover, .team_rollover a{ float:left;  clear:right;  width:132px;  color:#333;  font-family:Arial;  font-size:12px}
+.fa_footer_txt{float:left; font-family:arial; font-size:11px; color:#333}
+#video_container{width:450px; float:left; margin-left:28px}
+#video_header{width:450px; margin-left:10px; margin-top:23px; float:left}
+#video_footer{width:450px; margin-left:10px; margin-top:-26px; *margin-top:0px; float:left}
+.subfirst, .submiddle{width:250px; padding-top:15px; padding-right:21px}
+.sublast{width:250px; padding-top:15px}
+.row2subfirst {width:385px; height:247px; padding-top:15px; padding-right:22px}
+.row2sublast{width:386px; height:247px; padding-top:15px}
+.row3submessage {width:792px; height:252px; padding-top:15px}
+.submessages{float:right}
+#subcat{display:none !important}
+#above{ background-color:white !important;  clear:both !important;  margin:0 auto !important;  padding-right:20px !important;  width:996px !important;  padding-left:0px !important}
+#content_wrapper{padding:0px !important}
+#blog_video_container{margin:0; padding:0; border:0; overflow:hidden; float:left}
+#leftNav{display:none}.column_2{display:none}.paginator{display:none !important}
+body.EB #banner {display:none}
+.controller {display:none}
+body.EB #new_rail {display:block;}
+#middle {border-right: 20px solid #FFFFFF;}
+.billboard {border-right: 20px solid #FFFFFF;}
+.label {
+    color: #333333;
+    font-family: Georgia,Times New Roman,Serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+#fbBox #fbCaption {display:none;}
+#ytapiplayer {margin-top:73px;}
+</style>
+<div id="main_content">
+    <div id="content_0019">
+        <div id="hp_top">
+            <div id="hp_leftnav">
+                <div id="hp_leftnav_top">
+                    &nbsp;</div>
+                <div id="hp_leftnav_middle">
+                    <div class="fa_subhead">
+                        FEATURED COLLECTIONS</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/New-Arrivals/index.cat" name="Category Nav" class="fa_subhead_nav">New Arrivals</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Guide-Favorites/index.cat" name="Category Nav" class="fa_subhead_nav">Guide Favorites</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Best-Sellers/index.cat" name="Category Nav" class="fa_subhead_nav">Best Sellers</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Video-Library/index.cat" name="Category Nav" class="fa_subhead_nav">Video Library</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-Rock-Climbing/index.cat" name="Category Nav" class="fa_subhead_nav">Men's Rock Climbing</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-Rock-Climbing/index.cat" name="Category Nav" class="fa_subhead_nav">Women's Rock Climbing</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/First-Ascent-Mens-Snowsports/index.cat" name="Category Nav" class="fa_subhead_nav">Men's Ski &amp; Snowboard</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/First-Ascent-Womens-Snowsports/index.cat" name="Category Nav" class="fa_subhead_nav">Women's Ski &amp; Snowboard</a></div>
+                    <div class="hp_leftnav_spacer"></div>
+                    <div class="fa_subhead">MEN'S</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/index.cat" name="Category Nav" class="fa_subhead_nav">All Men's</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Jackets--Vest/index.cat" name="Category Nav" class="fa_subhead_nav">Jackets &amp; Vests</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Fleece/index.cat" name="Category Nav" class="fa_subhead_nav">Fleece</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/T-Shirts/index.cat" name="Category Nav" class="fa_subhead_nav">Shirts &amp; T-Shirts</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/First-Ascent-Mens-Pants/index.cat" name="Category Nav" class="fa_subhead_nav">Pants &amp; Shorts</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/First-Ascent-Mens-Baselayer/index.cat" name="Category Nav" class="fa_subhead_nav">Baselayer</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Down/index.cat" name="Category Nav" class="fa_subhead_nav">Down</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Primaloft/index.cat" name="Category Nav" class="fa_subhead_nav">Primaloft</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Hard-Shell/index.cat" name="Category Nav" class="fa_subhead_nav">Hard Shell</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Soft-Shell/index.cat" name="Category Nav" class="fa_subhead_nav">Soft Shell</a></div>
+                    
+                    <div class="hp_leftnav_spacer"></div>
+                    
+                    <div class="fa_subhead">WOMEN'S</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/index.cat" name="Category Nav" class="fa_subhead_nav">All Women's</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-Jackets--Vests/index.cat" name="Category Nav" class="fa_subhead_nav">Jackets &amp; Vests</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Women-First-Ascent-Fleece/index.cat" name="Category Nav" class="fa_subhead_nav">Fleece</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-T-Shirts/index.cat" name="Category Nav" class="fa_subhead_nav">Shirts &amp; T-Shirts</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/First-Ascent-Womens-Pants/index.cat" name="Category Nav" class="fa_subhead_nav">Pants &amp; Capris</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/First-Ascent-Womens-Baselayer/index.cat" name="Category Nav" class="fa_subhead_nav">Baselayer</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Down/index.cat" name="Category Nav" class="fa_subhead_nav">Down</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Primaloft/index.cat" name="Category Nav" class="fa_subhead_nav">Primaloft</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Hard-Shell/index.cat" name="Category Nav" class="fa_subhead_nav">Hard Shell</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Soft-Shell/index.cat" name="Category Nav" class="fa_subhead_nav">Soft Shell</a></div>
+                    
+                    <div class="hp_leftnav_spacer"></div>
+                    
+                    <div class="fa_subhead">GEAR &amp; ACCESSORIES</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/index.cat" name="Category Nav" class="fa_subhead_nav">All Gear</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/First-Ascent-Tents/index.cat" name="Category Nav" class="fa_subhead_nav">Tents</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/First-Ascent-Sleeping-Bags/index.cat" name="Category Nav" class="fa_subhead_nav">Sleeping Bags</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/Gloves--Hats/index.cat" name="Category Nav" class="fa_subhead_nav">Gloves, Hats &amp; Socks</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/Goggles--Helmets/index.cat" name="Category Nav" class="fa_subhead_nav">Goggles &amp; Helmets</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/Backpacks--Tools/index.cat" name="Category Nav" class="fa_subhead_nav">Backpacks &amp; Tools</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Gear/Watches/index.cat" name="Category Nav" class="fa_subhead_nav">Watches</a></div>
+                    
+                    <div class="hp_leftnav_spacer"></div>
+                    
+                    <div class="fa_subhead">KIDS'</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Kids-First-Ascent/index.cat" name="Category Nav" class="fa_subhead_nav">All Kids</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Kids-First-Ascent/Boys/index.cat" name="Category Nav" class="fa_subhead_nav">Boys</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Kids-First-Ascent/Girls/index.cat" name="Category Nav" class="fa_subhead_nav">Girls</a></div>
+                    
+                    <div class="hp_leftnav_spacer"></div>
+                    
+                    <div class="fa_subhead">EXPLORE FIRST ASCENT</div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/Guide-Built/index.cat" name="Category Nav" class="fa_subhead_nav">Guide Built</a></div>
+                    <div class="fa_nav"><a href="/EB/First-Ascent/First-Ascent-Team/index.cat" name="Category Nav" class="fa_subhead_nav">First Ascent Team</a></div>
+                    <div class="fa_nav"><a href="http://blog.eddiebauer.com/" target="_blank" name="Category Nav" class="fa_subhead_nav">Live Your Adventure Blog</a></div>
+                </div>
+            </div>
+            
+            <div id="hp_leftnav_right_margin">&nbsp;</div>
+            
+            <div class="slideshow large" style="float: right;">
+                <div class="slides">
+                    <img src="/assets/ocp/content/first_ascent/homepage/130903/28475a_0019m.jpg" width="792"
+                        height="500" border="0" class="slide" usemap="#m_28475a_0019m" />
+                    <map name="m_28475a_0019m" id="m_28475a_0019m">
+                        <area shape="rect" coords="18,292,66,310" href="/EB/First-Ascent/Mens-First-Ascent/index.cat"
+                            title="Shop Men's First Ascent" alt="Shop Men's First Ascent" />
+                        <area shape="rect" coords="78,292,144,310" href="/EB/First-Ascent/Womens-First-Ascent/index.cat"
+                            title="Shop Women's First Ascent" alt="Shop Women's First Ascent" />
+                    </map>
+                </div>
+            </div>
+            <div id="submessages_wrapper">
+                <table class="submessages">
+                    <tr>
+                        <td class="subfirst">
+                            <img src="/assets/ocp/content/first_ascent/homepage/130903/28475b.jpg" border="0" width="250"
+                                height="247" usemap="#m_28475b" />
+                            <map id="m_28475b" name="m_28475b">
+                                <area shape="rect" coords="6,230,46,244" href="/catalog/product.jsp?ensembleId=45065"
+                                    title="Shop Women's Quest 150 Fleece Full-Zip Jacket" alt="Shop Women's Quest 150 Fleece Full-Zip Jacket" />
+                                <area shape="rect" coords="48,230,108,244" href="/catalog/product.jsp?ensembleId=45164"
+                                    title="Shop Men's Cloud Layer&reg; Pro Full-Zip Fleece Jacket" alt="Shop Men's Cloud Layer&reg; Pro Full-Zip Fleece Jacket" />
+                            </map>
+                        </td>
+                        <td class="submiddle">
+                            <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+                            <div class="product_youtube_video" data-link-videoid="xJ_vV_MBYps" data-link-fname="uprising_jeans"
+                                data-link-playerobjid="myytplayer_uprising_jeans" data-link-objectplaceholder="ytapiplayer_uprising_jeans"
+                                data-link-outercontainer="ppv_container_uprising_jeans" data-link-href="product_page_video_uprising_jeans"
+                                data-link-objectwrapper="youtube_uprising_jeans">
+                                <img src="/assets/ocp/content/first_ascent/homepage/130903/28475c.jpg" border="0" width="250"
+                                    height="247" usemap="#m_28475c" />
+                                <map id="m_28475c" name="m_28475c">
+                                    <area shape="rect" coords="0,0,250,204" class="floatbox" alt="Watch Video" title="Watch Video"
+                                        name="static:link:videomodal" rev="centerOnResize:true autoFitHTML:true width:664 height:402 scrolling:no outerClose:true hideObjects:false controlsPos:tr beforeItemEnd:triggerStopVideo();"
+                                        href="#product_page_video_uprising_jeans" />
+                                    <area shape="rect" coords="0,206,250,246" href="/catalog/product.jsp?ensembleId=43193"
+                                        title="Shop Uprising Jean" alt="Shop Uprising Jean" />
+                                </map>
+                            </div>
+                        </td>
+                        <td class="sublast">
+                            <a href="/EB/Bags--Gear/Bestsellers/index.cat" title="Best In Class" name="Submessage_Category_First_Ascent_Best_In_Class">
+                                <img src="/assets/ocp/content/first_ascent/homepage/130903/28475d.jpg" border="0"
+                                    width="250" height="247" alt="Best In Class" />
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+                <table class="submessages">
+                    <tr>
+                        <td class="row2subfirst">
+                            <img src="/assets/ocp/content/first_ascent/homepage/130903/28475e.jpg" border="0"
+                                width="385" height="247" usemap="#m_28475e" />
+                            <map name="m_28475e" id="m_28475e">
+                                <area shape="rect" coords="0,0,384,196" href="/EB/First-Ascent/Guide-Favorites/index.cat"
+                                    title="Shop Guide favorites" alt="Shop Guide favorites" />
+                                <area shape="rect" coords="0,198,384,246" href="/EB/First-Ascent/First-Ascent-Team/Caroline-George/index.cat"
+                                    title="Caroline George" alt="Caroline George" />
+                            </map>
+                        </td>
+                        <td class="row2sublast">
+                            <img src="/assets/ocp/content/first_ascent/homepage/130903/28475f.jpg" border="0"
+                                width="386" height="247" usemap="#m_28475f" />
+                            <map id="m_28475f" name="m_28475f">
+                                <area shape="rect" coords="6,108,56,122" href="/catalog/product.jsp?ensembleId=45089"
+                                    title="Shop Propellant" alt="Shop Propellant" />
+                                <area shape="rect" coords="60,108,126,124" href="/catalog/product.jsp?ensembleId=45100"
+                                    title="Shop Propellant" alt="Shop Propellant" />
+                            </map>
+                        </td>
+                    </tr>
+                </table>
+                <table class="submessages">
+                    <tr>
+                        <td class="row3submessage">
+                            <div class="product_youtube_video" data-link-videoid="3hrW4j0RjDA" data-link-fname="backdraft"
+                                data-link-playerobjid="myytplayer_backdraft" data-link-objectplaceholder="ytapiplayer_backdraft"
+                                data-link-outercontainer="ppv_container_backdraft" data-link-href="product_page_video_backdraft"
+                                data-link-objectwrapper="youtube_backdraft">
+                                <img src="/assets/ocp/content/first_ascent/homepage/130903/28475g.jpg" border="0"
+                                    width="792" height="252" usemap="#m_28475g" />
+                                <map name="m_28475g" id="m_28475g">
+                                    <area shape="rect" coords="15,221,92,237" href="/catalog/product.jsp?ensembleId=45081" title="Shop Backdraft" alt="Shop Backdraft" />
+                                    <area shape="rect" coords="" href="/catalog/product.jsp?ensembleId=45093" title="Shop Backdraft" alt="Shop Backdraft" />
+                                    <area shape="rect" coords="532,0,791,250" class="floatbox" alt="Watch Video" title="Watch Video"
+                                        name="static:link:videomodal" rev="centerOnResize:true autoFitHTML:true width:664 height:402 scrolling:no outerClose:true hideObjects:false controlsPos:tr beforeItemEnd:triggerStopVideo();"
+                                        href="#product_page_video_backdraft" />
+                                </map>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="blog_container">
+                <div id="blog_header">
+                    <div class="label">Blog</div>
+                    <hr class="fa_rule_top" />
+                </div>
+                <div id="blog">
+                    <div id="rssFeed">
+                        <script type="text/javascript">
+                            function readMore(href) {
+                                window.open(href);
+                            };
+                        </script>
+                    </div>
+                </div>
+                <div id="blog_footer">
+                    <hr class="fa_rule_bottom" />
+                    <div class="fa_footer_text">
+                        <a href="http://blog.eddiebauer.com" target="_new">Visit The Live Your Adventure Blog</a></div>
+                </div>
+            </div>
+            <div id="video_container">
+                <div id="video_header">
+                    <div class="label">Video</div>
+                    <hr class="fa_rule_top_video" />
+                </div>
+                <div id="video">
+                    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+                    <div class="youtube" style="display: block;">
+                        <div id="ytapiplayer">
+                            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+                                codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
+                                id="myytplayer_fa" width="440" height="277">
+                                <param name="wmode" value="transparent" />
+                                <param name="movie" value="http://www.youtube.com/v/pY7SrGBJJxw?enablejsapi=1&playerapiid=video&version=3fs=1&hl=en_US&vq=hd1080&rel=0&showinfo=0&autoplay=0" />
+                                <param name="allowFullScreen" value="true" />
+                                <param name="allowscriptaccess" value="always" />
+                                <embed name="myytplayer_fa" wmode="transparent" src='http://www.youtube.com/v/pY7SrGBJJxw?enablejsapi=1&playerapiid=video&version=3fs=1&hl=en_US&vq=hd1080&rel=0&showinfo=0&autoplay=0'
+                                    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
+                                    width="440" height="277" />
+                            </object>
+                        </div>
+                    </div>
+                    
+                    <ul id="video_thumbs" class="jcarousel-skin-thumbs">
+                    </ul>
+                </div>
+                <div id="video_footer">
+                    <hr class="fa_rule_bottom_video" />
+                    <div class="fa_footer_text"><a href="http://www.youtube.com/firstascentvideo" target="_new">Visit First Ascent Video on YouTube</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<map name="m_fa_poster1" id="m_fa_poster1">
+    <area shape="rect" coords="144,152,180,168" href="javascript:getProductDetails(41536);" title="Shop Men's MicroTherm&trade; Down Vest" alt="Shop Men's MicroTherm&trade; Down Vest" name="" />
+    <area shape="rect" coords="184,152,234,168" href="javascript:getProductDetails(42316);" title="Shop Women's MicroTherm&trade; Down Vest" alt="Shop Women's MicroTherm&trade; Down Vest" name="" /> 
+</map>
+<map id="m_fa_poster3" name="m_fa_poster3">
+    <area shape="rect" coords="130,152,172,168" href="/EB/First-Ascent/Mens-Rock-Climbing/index.cat" title="Shop Men's Rock Climbing" alt="Shop Men's Rock Climbing" name="Submessage: Button: Category: Mens Rock climbing" />
+    <area shape="rect" coords="182,152,238,168" href="/EB/First-Ascent/Womens-Rock-Climbing/index.cat" title="Shop Women's Rock Climbing" alt="Shop Women's Rock Climbing" name="Submessage: Button: Category: Womens Rock climbing" />
+</map>
+<p class="someElement"></p>
+<p id="anotherElement"></p>
+
+<script language="javascript" type="text/javascript">
+
+    jQuery(document).ready(function () {
+
+        jQuery.fn.parseRSS('http://blog.eddiebauer.com/feed/');
+        var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+        var isIE9 = (navigator.appVersion.indexOf('MSIE 9.0') != -1) ? true : false;
+        if (isIE) { jQuery('.slideshow').slideshow(); }
+        if (isIE9) { jQuery('head').append('<style type="text/css">.fa_rule_bottom{padding-top:28px !important;}</style>'); }
+
+    });
+
+</script>

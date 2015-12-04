@@ -1,0 +1,184 @@
+ 	/* Page Styles */
+    #team_page_wrapper { width: 996px; height: auto; margin: 0; padding: 0; border: 0; position: relative; }
+    #header_graphic_wrapper { padding-bottom: 35px; }
+    .main_guides_wrapper { display: block; padding:0px 12px 0px 12px; }
+    .guides_header { display: block; clear: both; padding-bottom: 5px; }
+    .guides_description { display: inline-block; clear: both; padding-bottom: 20px; font-family: Arial; font-size: 12px; line-height: 1.5; color: #333; width: 747px; }
+    .guides_subheader { padding-bottom: 10px; }
+    .athletes_rows { padding-top: 10px; }
+    .guide_wrapper { overflow: hidden; }
+    .guide { float: left; display: inline-block; position: relative;  padding-bottom: 12px; }
+    .team_rollover, .team_rollover a { float: left; clear: right; width: 132px; color: #333; font-family: Arial; font-size: 12px; }
+    .team_images { width: 132px; height: 132px; border: none; }
+    .last { padding-right: 0 !important; clear: right; }
+    .sep_line { border-top: 1px solid #999; border-bottom: 0; border-left: 0; border-right: 0; width: 972px; background-color: #999; }
+    .sep_line_top { padding-top: 20px; }
+    .sep_line_bottom { padding-bottom: 25px; }
+
+    /*page css*/
+    a { text-decoration: none; }
+   	#theatre { display: none; }
+    #guidesTheatre #theatre {width:974px}
+
+    .off { display: none; }
+    #tabController { padding: 0; width: 972px; margin: 0 auto; }
+    #tabController ul li { background-image: none;}
+    #tabs { height: 465px; clear: both; overflow: hidden; background: transparent; }
+    
+    .ui-tabs .ui-tabs-hide { display: none !important; }
+    .ui-tabs .ui-widget-header { border: none; }
+    #tabController .ui-tabs .ui-tabs-nav li a { text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 3px; top: 0; }
+    #tabController .ui-state-active, #tabController .ui-widget-content .ui-state-active, #tabController .ui-widget-header .ui-state-active {background-image: none; }
+    #tabController .ui-state-active, #tabController .ui-widget-content .ui-state-active { background-image: none; }
+    .ui-widget { font-size: 12px; }
+    .ui-tabs .ui-widget-content { height: 425px; }
+
+    #name { position: absolute; z-index: 1; color: #fff; padding: 20px 0 0 30px; }
+    ul.navTabs { background: transparent !important; border: none; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px;
+         font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif; margin-left: 10px !important; 
+         margin-bottom: 7px !important; height: 30px; }
+    ul.navTabs li { margin-right: 5px; background-image: none; border: 1px solid #ffffff !important; font-weight: normal; color: #ffffff; border-radius: 0; 
+        list-style:none; display:inline; float:left; top: 1px;  }
+    ul.navTabs li:hover {  border: 1px solid #A8A8A8 !important; }
+    ul.navTabs li.selected { background: transparent no-repeat bottom center; border: none; border: 1px solid #A8A8A8 !important;
+        color: #A8A8A8; font-weight: normal; }
+    ul.navTabs li a { color: #ffffff; text-decoration: none; text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 4px 3px 4px 3px; 
+        top: 0; }
+    ul.navTabs li a.active { color: #a8a8a8; text-decoration: none; text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 4px 3px 4px 3px; 
+        top: 0; }
+    ul.navTabs li a:hover {color: #a8a8a8; text-decoration: none; text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 4px 3px 4px 3px; 
+        top: 0;}
+    
+    #tabController .ui-state-default,
+    #tabController .ui-widget-content .ui-state-default,
+    #tabController .ui-widget-header .ui-state-default {
+        background-image: none; border: 1px solid #ffffff !important; font-weight: normal; color: #ffffff; border-radius: 0; margin-right: 5px;
+    }
+    #tabController .ui-state-default a,
+    #tabController .ui-state-default a:link,
+    #tabController .ui-state-default a:visited {
+        color: #ffffff; text-decoration: none; text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 3px; top: 0;
+    }
+    #tabController .ui-state-hover,
+    #tabController .ui-widget-content .ui-state-hover,
+    #tabController .ui-widget-header .ui-state-hover,
+    #tabController .ui-state-focus,
+    #tabController .ui-widget-content .ui-state-focus,
+    #tabController .ui-widget-header .ui-state-focus {
+        border: 1px solid #a8a8a8 !important; font-weight: normal; color: #a8a8a8; border-radius: 0; margin-right: 5px;
+    }
+    #tabController .ui-state-hover a,
+    #tabController .ui-state-hover a:hover {
+        color: #a8a8a8; text-decoration: none; text-transform: uppercase; font-size: 16px; font-weight: bold; padding: 3px; top: 0;
+    }
+
+    /* tab overrides */
+    #tabController { background: transparent; border: none; }
+    #tabController .ui-widget-header { background: transparent; border: none; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; }
+    #tabController .ui-state-default { background: transparent; border: none; }
+    #tabController .ui-state-active { background: transparent no-repeat bottom center; border: none; }
+
+    #tabController .ui-state-active,
+    #tabController .ui-widget-content .ui-state-active,
+    #tabController .ui-widget-header .ui-state-active {
+        font-weight: normal; color: #a8a8a8; border: 1px solid #a8a8a8 !important;
+    }
+    #tabController .ui-state-active a,
+    #tabController .ui-state-active a:link,
+    #tabController .ui-state-active a:visited {
+        color: #a8a8a8; text-decoration: none;
+    }
+   .ui-widget :active { outline: none; }
+
+    h1 { color: #fff; }
+
+    #tabs .panel { border: 1px solid #666666 !important; }
+
+    #tabs-01 { position: relative; }
+    #tabs-01 .content { font-size: 14px; position: absolute; left: 30px; color: #fff; line-height: 20px; }
+
+    /*
+    #tabs-01 { width: 974px; overflow: hidden; clear: both;}
+    #tabs-01 .content { font-size: 17px; float: left; padding: 125px 25px; width: 355px; }
+    */
+    
+    /* bio tab */
+    #tabs-02 .content { color: #fff; font-size: 14px; font-weight: normal; float: left; margin: 155px 20px 0 30px; width: 580px; height: 250px; padding: 0; overflow: auto; display: block; }
+    #tabs-02 .content .text p { color: #fff; font-size: 14px; font-weight: normal; line-height: 1.3; margin-bottom: 15px; }
+  	#tabs-02 .content .text p a { color: #fff; font-size: 14px; font-weight: normal;font-style: italic; }
+    #tabs-02 .content .text { padding-bottom: 20px; line-height: 1.3; margin-top: 20px; margin-right: 10px; }
+    #tabs-02 .content .main { color: #0572b7; font-size: 18px; font-weight: bold; display: block; margin-right: 10px; width: 553px; display: block;}
+    #tabs-02 .bio-image { float: right; width: 336px; }
+  	#tabs-02 .content .text { font-size: 14px; color: #fff; list-style-type: disc; font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif; }
+
+    /* guide thumbnails */
+    ul.list { list-style-type: none; clear: both; overflow: hidden; padding: 0; margin: 20px 0}
+    ul.list li { float: left; margin-right: 10px; width: 132px; }
+    ul.list a { text-decoration: none; color: #333; font-size: 12px; }
+
+  	/* qtip styles for achievements */
+	/** tooltip required styles, do not edit, override with Default styles below **//*
+	/* Core qTip styles */
+
+    .ui-tooltip, .qtip{ position: absolute; left: -28000px; top: -28000px; display: none; max-width: 240px; min-width: 100px; font-size: 10.5px; line-height: 12px; }
+
+	/* Fluid class for determining actual width in IE */
+	.ui-tooltip-fluid{ display: block; visibility: hidden; position: static !important; float: left !important; }
+	.ui-tooltip-content{ position: relative; padding: 5px 9px; overflow: hidden; border: 1px solid #000001; text-align: left; word-wrap: break-word; overflow: hidden; }
+	.ui-tooltip-titlebar{ position: relative; min-height: 14px; padding: 5px 35px 5px 10px; overflow: hidden; border: 1px solid #000001; border-width: 1px 1px 0; font-weight: bold; }
+	.ui-tooltip-titlebar + .ui-tooltip-content{ border-top-width: 0px !important; }
+
+	/*! Default close button class */
+	.ui-tooltip-titlebar .ui-state-default{ position: absolute; right: 4px; top: 50%; margin-top: -9px; cursor: pointer; outline: medium none; border-width: 1px; border-style: solid; }
+
+	* html .ui-tooltip-titlebar .ui-state-default{ top: 16px; } /* IE fix */
+
+	.ui-tooltip-titlebar .ui-icon,
+	.ui-tooltip-icon .ui-icon{ display: block; text-indent: -1000em; }
+	.ui-tooltip-icon, .ui-tooltip-icon .ui-icon{ -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+	.ui-tooltip-icon .ui-icon{ width: 18px; height: 14px; text-align: center; text-indent: 0; font: normal bold 10px/13px Tahoma,sans-serif; color: inherit; background: transparent none no-repeat -100em -100em; }
+
+	/* Applied to 'focused' tooltips e.g. most recently displayed/interacted with */
+	.ui-tooltip-focus{ }
+
+	/* Applied on hover of tooltips i.e. added/removed on mouseenter/mouseleave respectively */
+	.ui-tooltip-hover{ }
+
+	/* Tips plugin */
+	.ui-tooltip .ui-tooltip-tip{ margin: 0 auto; overflow: hidden; z-index: 10; }
+	.ui-tooltip .ui-tooltip-tip,
+	.ui-tooltip .ui-tooltip-tip *{ display: none; position: absolute; line-height: 0.1px !important; font-size: 0.1px !important; color: #123456; background: transparent; border: 0 dashed transparent; }
+	.ui-tooltip .ui-tooltip-tip canvas{ display: none; top: 0; left: 0; }
+
+	/* ! Default tooltip style -- edit as needed */
+	.ui-tooltip-default .ui-tooltip-content { border: none; background: url("guides/flash/guides/bkg-tip.png"); color: #333; font-size: 12px; 
+        padding: 10px; max-width: 165px; font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif; }
+ 	a.num { color: #fff; display: block; position: absolute; z-index: 2; text-decoration: none; line-height: 1; }
+ 	div.tooltip { font-size: 12px; color: #000; position: relative; top: 0; left: 0; z-index: 3; }
+
+	/* photos and video styles */
+    a.advance-link { text-decoration: none; }
+    a.advance-link img { border: 1px solid #666666 !important; }
+ 	a.thumb img { width: 90px; height: 60px; text-decoration: none; display: block; height: 60px; padding: 0; border: 4px solid #000; }
+	div.th { width: 100px; height: 70px; margin: 0 10px 10px 0; float: left; }
+    div.th img { border: 4px solid #000; }
+    div.th.selected a.thumb img { border: 4px solid red; }
+	div#gallery, div#showVideo { position: absolute; height: 425px; right: 20px; top: 15px; }
+	div#slideshow { height: 383px; width:575px; }
+	a.video { position: relative; display: block; }
+    .play { position: absolute; top: 5px; left: 5px; width: 90px; height: 60px; background: url(thumbs/play.png); display: block; }
+    div.player-container { border: 1px solid #666666 !important; }
+
+
+	div#thumbs { width: 347px; position: absolute; top: 170px; left: 30px; height: 240px; overflow: auto; }
+    div.thumbs { width: 330px; clear: both; overflow: hidden;}
+	div.slideshow span.image-wrapper { display: block; left: 0; position: absolute; top: 4px; }
+	div.content a, div.navigation a { text-decoration: none; }
+	.photos { background: #6f6f6f; height: 426px; }
+	#photosTab div.content { width:575px; float: right; }
+	div.caption-container { height: 35px; text-align: center; position: relative; clear: left; }
+    div.caption { padding: 5px 0 0; }
+    span.image-caption { display: block; left: 0; position: absolute; top: 0; width: 550px; font-family:Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, Sans-Serif; }
+    div.image-title { color: #fff; font-size: 12px; font-weight: bold; }
+    div.caption div.image-title { filter:alpha(opacity=100);-moz-opacity:1;-khtml-opacity: 1;opacity: 1 !important;}
+	#theatre a#close { display: block; position: absolute; right: 0; top: 0; z-index: 999; }
